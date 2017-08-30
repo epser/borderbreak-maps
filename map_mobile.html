@@ -1,0 +1,130 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>ボーダーブレイク 設置店マップ</title>
+    <meta name="robots" content="noindex,follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true&hl=ja"></script>
+<script type="text/javascript">
+
+    var map;
+    var currentMarker = null;
+    var currentCircle = null;
+
+    function HomeControl(controlDiv, map) {
+        // Set CSS styles for the DIV containing the control
+        // Setting padding to 5 px will offset the control
+        // from the edge of the map
+        controlDiv.style.padding = '5px';
+
+        // Set CSS for the control border
+        var controlUI = document.createElement('div');
+        controlUI.style.backgroundColor = 'white';
+        controlUI.style.borderStyle = 'solid';
+        controlUI.style.borderWidth = '2px';
+        controlUI.style.cursor = 'pointer';
+        controlUI.style.textAlign = 'center';
+        controlDiv.appendChild(controlUI);
+
+        // Set CSS for the control interior
+        var controlText = document.createElement('div');
+        controlText.style.fontFamily = 'Arial,sans-serif';
+        controlText.style.fontSize = '12px';
+        controlText.style.paddingLeft = '4px';
+        controlText.style.paddingRight = '4px';
+        controlText.style.MozUserSelect = "none";
+        controlText.style.MsUserSelect = "none";
+        controlText.style.WebkitUserSelect = "none";
+        controlText.style.userSelect = "none";
+        controlText.innerHTML = '<b>現在地(対応ブラウザのみ)</b>';
+        controlUI.appendChild(controlText);
+
+        // from http://www.tam-tam.co.jp/tipsnote/javascript/post4139.html
+        google.maps.event.addDomListener(controlUI, 'click', function() {
+            // gps取得開始
+            navigator.geolocation.getCurrentPosition(function(pos) {
+                // gps 取得成功
+                // google map 初期化
+
+                // 現在位置にピンをたてる
+                var currentPos = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);
+                if(currentMarker != null) currentMarker.setMap(null);
+                currentMarker = new google.maps.Marker({
+                    map: map,
+                    position: currentPos
+                });
+         
+                // 誤差を円で描く
+                if(currentCircle != null) currentCircle.setMap(null);
+                currentCircle = new google.maps.Circle({
+                    clickable: false,
+                    map: map,
+                    center: currentPos,
+                    radius: pos.coords.accuracy, // 単位はメートル
+                    strokeColor: '#0088ff',
+                    strokeOpacity: 0.8,
+                    strokeWeight: 1,
+                    fillColor: '#0088ff',
+                    fillOpacity: 0.2
+                });
+                currentCircle.setMap(map);
+         
+                // 現在地にスクロールさせる
+                map.setZoom(15);
+                map.panTo(currentPos);
+         
+            }, function() {
+                // gps 取得失敗
+                gxml.mb.showMess('GPSデータを取得できませんでした', 3000);
+                return false;
+            });
+        });
+    }
+
+    function initialize() {
+        var initPos = new google.maps.LatLng(35.127152, 138.910627);
+        var myOptions = {
+            noClear : true,
+            center : initPos,
+            zoom : 5,
+            mapTypeId : google.maps.MapTypeId.ROADMAP,
+            scaleControl: true 
+        };
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+        // Create the DIV to hold the control and
+        // call the HomeControl() constructor passing
+        // in this DIV.
+        var homeControlDiv = document.createElement('DIV');
+        var homeControl = new HomeControl(homeControlDiv, map);
+
+        homeControlDiv.index = 1;
+        map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homeControlDiv);
+
+        var kmlUrl = "https://dl.dropboxusercontent.com/u/107335829/xml/borderbreak-satellites.kml";
+        var kmlLayer = new google.maps.KmlLayer({
+            map: map,
+            url: kmlUrl
+        });
+        // kmlLayer.setMap(map);
+    }
+
+</script>
+<style>
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	}
+</style>
+</head>
+
+
+
+
+<body onload="initialize()">
+  <div id="map_canvas" style="width:100%; height:100%;"></div>
+</body>
+
+</html>

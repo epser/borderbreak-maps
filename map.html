@@ -1,0 +1,156 @@
+<html>
+    <head>
+        <title>ボーダーブレイク 設置店</title>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<link type="text/css" rel="stylesheet" href="gmap.css" />
+		<style type="text/css" media="screen"></style>
+<style>
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	}
+
+</style>
+<script type="text/javascript" src= "https://maps.googleapis.com/maps/api/js?sensor=true&hl=ja"></script>
+<script type="text/javascript" src="geoxmlfull_v3.js"></script>
+<script type="text/javascript" src="jquery-1.11.2.min.js"></script>
+<script>
+    var map;
+    var cta_layer;
+    var gxml; 
+    var geocoder;
+    var currentMarker = null;
+    var currentCircle = null;
+
+    function initialize() {
+        geocoder = new google.maps.Geocoder();
+        var myOptions = {
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            scaleControl: true 
+        }
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+
+        // Create the DIV to hold the control and
+        // call the HomeControl() constructor passing
+        // in this DIV.
+        var homeControlDiv = document.createElement('DIV');
+        var homeControl = new HomeControl(homeControlDiv, map);
+
+        homeControlDiv.index = 1;
+        map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homeControlDiv);
+
+        gxml = new GeoXml("gxml", map, "https://dl.dropboxusercontent.com/u/107335829/xml/borderbreak-satellites.kml", {
+            sidebarid:"the_side_bar",
+//          publishdirectory:"http://dl.dropboxusercontent.com/u/107335829/",
+//          iwwidth:280,
+//          dohilite:true
+
+        }); 
+        gxml.parse();
+    }
+
+    function HomeControl(controlDiv, map) {
+        // Set CSS styles for the DIV containing the control
+        // Setting padding to 5 px will offset the control
+        // from the edge of the map
+        controlDiv.style.padding = '5px';
+
+        // Set CSS for the control border
+        var controlUI = document.createElement('div');
+        controlUI.style.backgroundColor = 'white';
+        controlUI.style.borderStyle = 'solid';
+        controlUI.style.borderWidth = '2px';
+        controlUI.style.cursor = 'pointer';
+        controlUI.style.textAlign = 'center';
+        controlUI.title = 'Click to set the map to Home';
+        controlDiv.appendChild(controlUI);
+
+        // Set CSS for the control interior
+        var controlText = document.createElement('div');
+        controlText.style.fontFamily = 'Arial,sans-serif';
+        controlText.style.fontSize = '12px';
+        controlText.style.paddingLeft = '4px';
+        controlText.style.paddingRight = '4px';
+        controlText.style.MozUserSelect = "none";
+        controlText.style.MsUserSelect = "none";
+        controlText.style.WebkitUserSelect = "none";
+        controlText.style.userSelect = "none";
+        controlText.innerHTML = '<b>現在地(対応ブラウザのみ)</b>';
+        controlUI.appendChild(controlText);
+
+        // from http://www.tam-tam.co.jp/tipsnote/javascript/post4139.html
+        google.maps.event.addDomListener(controlUI, 'click', function() {
+            // gps取得開始
+            navigator.geolocation.getCurrentPosition(function(pos) {
+                // gps 取得成功
+                // google map 初期化
+
+                // 現在位置にピンをたてる
+                var currentPos = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);
+                if(currentMarker != null) currentMarker.setMap(null);
+                currentMarker = new google.maps.Marker({
+                    map: map,
+                    position: currentPos
+                });
+         
+                // 誤差を円で描く
+                if(currentCircle != null) currentCircle.setMap(null);
+                currentCircle = new google.maps.Circle({
+                    clickable: false,
+                    map: map,
+                    center: currentPos,
+                    radius: pos.coords.accuracy, // 単位はメートル
+                    strokeColor: '#0088ff',
+                    strokeOpacity: 0.8,
+                    strokeWeight: 1,
+                    fillColor: '#0088ff',
+                    fillOpacity: 0.2
+                });
+         
+                // 現在地にスクロールさせる
+                map.setZoom(15);
+                map.panTo(currentPos);
+         
+            }, function() {
+                // gps 取得失敗
+                gxml.mb.showMess('GPSデータを取得できませんでした', 3000);
+                return false;
+            });
+        });
+    }
+
+    function codeAddress() {
+        var address = document.getElementById("addr").value;
+        geocoder.geocode( { 'address': address}, function(results, status) {
+          if (status == google.maps.GeocoderStatus.OK) {
+            map.setCenter(results[0].geometry.location);
+            map.setZoom(14);
+            gxml.mb.showMess(results[0].formatted_address, 5000);
+          } else {
+            gxml.mb.showMess('住所が見つかりませんでした', 3000);
+          }
+        });
+    }
+
+    $(function(){
+        $(window).bind("keydown", function(e){
+            var id = $(":focus").attr("id");
+            if(id == "addr" && e.which == 13) {
+                codeAddress();
+            }
+        });
+    });
+</script>
+</head>
+    <body onload="initialize()">
+    <div id="map-container" style="width: 100%; height: 100%; margin:0; padding:0;">
+        <div id="status"></div>
+        <div id="map_canvas" style="width:auto;height:100%; margin-left: 20em;"></div>
+        <div id="the_side_bar" style="position:absolute;left:0;top:0;width:20em;height:100%;overflow: auto; overflow-x:hidden;">
+                <div style="width: 20em; padding: 0.3em">住所検索：<input id="addr" type="text" value=""> <input type="button" value="検索" onclick="codeAddress()"></div>
+        </div>
+    </div>
+    </body>
+</html>
