@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2017-08-28)</name>
+  <name>ボーダーブレイク 設置店(2017-09-01)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 951 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(110)</name>
+<name>北海道・東北(109)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -538,7 +538,7 @@ BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>青森県(9)</name>
+  <name>青森県(8)</name>
     <Placemark>
       <name>青森メトロポリス</name>
       <description><![CDATA[
@@ -561,18 +561,6 @@ BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.4835492,40.5983865</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ソユーアミューズメントクラブアラモード</name>
-      <description><![CDATA[
-<b>登録住所：</b>青森県弘前市高崎2-15-1さくら野弘前店ラフォルテ2F<br />
-<b>マーカーの住所：</b>青森県弘前市高崎２丁目１５−１<br />
-<b>マーカー精度：</b>4(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BD%E3%83%A6%E3%83%BC%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96%E3%82%A2%E3%83%A9%E3%83%A2%E3%83%BC%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.4951864,40.6081885</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -8313,11 +8301,11 @@ BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(107)</name>
+<name>近畿(106)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>滋賀県(12)</name>
+  <name>滋賀県(11)</name>
     <Placemark>
       <name>セガワールド草津</name>
       <description><![CDATA[
@@ -8448,18 +8436,6 @@ BORDERBREAK公式サイトから店舗情報 953 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.9431956,35.0200023</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>滋賀レジャーランド大津店</name>
-      <description><![CDATA[
-<b>登録住所：</b>滋賀県大津市におの浜３−１−４３<br />
-<b>マーカーの住所：</b>滋賀県大津市におの浜３丁目１−４３<br />
-<b>マーカー精度：</b>4(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E6%BB%8B%E8%B3%80%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.8834052,35.0039335</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
