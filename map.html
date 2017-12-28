@@ -1,9 +1,10 @@
 <html>
     <head>
-        <title>ボーダーブレイク 設置店</title>
-		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<link type="text/css" rel="stylesheet" href="gmap.css" />
-		<style type="text/css" media="screen"></style>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>ボーダーブレイク 設置店マップ</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <link type="text/css" rel="stylesheet" href="gmap.css" />
+        <style type="text/css" media="screen"></style>
 <style>
 html, body {
 	height: 100%;
@@ -12,9 +13,9 @@ html, body {
 	}
 
 </style>
-<script type="text/javascript" src= "https://maps.googleapis.com/maps/api/js?sensor=true&amp;key=AIzaSyCcKcKh5d7NKqWtX6Z3vuOlC8-aYbnVCEM&amp;hl=ja"></script>
-<script type="text/javascript" src="geoxmlfull_v3.js"></script>
-<script type="text/javascript" src="jquery-1.11.2.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?sensor=true&amp;key=AIzaSyCcKcKh5d7NKqWtX6Z3vuOlC8-aYbnVCEM&amp;hl=ja"></script>
+<script src="geoxmlfull_v3.js"></script>
+<script src="jquery-1.11.2.min.js"></script>
 <script>
     var map;
     var cta_layer;
@@ -22,34 +23,6 @@ html, body {
     var geocoder;
     var currentMarker = null;
     var currentCircle = null;
-
-    function initialize() {
-        geocoder = new google.maps.Geocoder();
-        var myOptions = {
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            scaleControl: true 
-        }
-        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-
-
-        // Create the DIV to hold the control and
-        // call the HomeControl() constructor passing
-        // in this DIV.
-        var homeControlDiv = document.createElement('DIV');
-        var homeControl = new HomeControl(homeControlDiv, map);
-
-        homeControlDiv.index = 1;
-        map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homeControlDiv);
-
-        gxml = new GeoXml("gxml", map, "https://drive.google.com/uc?export=view&id=1zMGQAOAgDkthORezIvdut54kZX1w3eUR", {
-            sidebarid:"the_side_bar",
-//          publishdirectory:"http://dl.dropboxusercontent.com/u/107335829/",
-//          iwwidth:280,
-//          dohilite:true
-
-        }); 
-        gxml.parse();
-    }
 
     function HomeControl(controlDiv, map) {
         // Set CSS styles for the DIV containing the control
@@ -108,6 +81,7 @@ html, body {
                     fillColor: '#0088ff',
                     fillOpacity: 0.2
                 });
+                currentCircle.setMap(map);
          
                 // 現在地にスクロールさせる
                 map.setZoom(15);
@@ -119,6 +93,37 @@ html, body {
                 return false;
             });
         });
+    }
+
+    function initialize() {
+        var initPos = new google.maps.LatLng(35.127152, 138.910627);
+        var myOptions = {
+            noClear : true,
+            center : initPos,
+            zoom : 5,
+            mapTypeId : google.maps.MapTypeId.ROADMAP,
+            scaleControl: true 
+        };
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+        // Create the DIV to hold the control and
+        // call the HomeControl() constructor passing
+        // in this DIV.
+        var homeControlDiv = document.createElement('DIV');
+        var homeControl = new HomeControl(homeControlDiv, map);
+
+        homeControlDiv.index = 1;
+        map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homeControlDiv);
+
+        geocoder = new google.maps.Geocoder();
+
+        gxml = new GeoXml("gxml", map, "https://drive.google.com/uc?export=view&id=1zMGQAOAgDkthORezIvdut54kZX1w3eUR", {
+            sidebarid:"the_side_bar"
+//			publishdirectory:"http://www.dyasdesigns.com/tntmap/",
+//          iwwidth:280,
+//          dohilite:true
+        }); 
+        gxml.parse();
     }
 
     function codeAddress() {
