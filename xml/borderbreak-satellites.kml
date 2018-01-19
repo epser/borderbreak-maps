@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-01-14)</name>
+  <name>ボーダーブレイク 設置店(2018-01-19)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 941 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1385,11 +1385,11 @@ BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(359)</name>
+<name>関東(358)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>茨城県(26)</name>
+  <name>茨城県(25)</name>
     <Placemark>
       <name>ＧＡＭＥ ＰＡＤＤＯＣＫ＋１</name>
       <description><![CDATA[
@@ -1400,18 +1400,6 @@ BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7578725,36.2067383</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>プレビ　常陸多賀店</name>
-      <description><![CDATA[
-<b>登録住所：</b>茨城県日立市千石町１−６−１４ プレビジョイカム<br />
-<b>マーカーの住所：</b>茨城県日立市千石町１丁目６−１４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%AC%E3%83%93%E3%80%80%E5%B8%B8%E9%99%B8%E5%A4%9A%E8%B3%80%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.6293958,36.5536004</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
