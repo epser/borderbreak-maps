@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-01-23)</name>
+  <name>ボーダーブレイク 設置店(2018-01-24)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 941 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(358)</name>
+<name>関東(357)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3574,7 +3574,7 @@ BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(116)</name>
+  <name>東京都(115)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4113,18 +4113,6 @@ BORDERBREAK公式サイトから店舗情報 942 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6638502,35.763887</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ファンファン平和島店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都大田区大森北6-29-13<br />
-<b>マーカーの住所：</b>東京都大田区大森北６丁目２９−１３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E5%B9%B3%E5%92%8C%E5%B3%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7351542,35.5786243</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
