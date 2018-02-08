@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-02-07)</name>
+  <name>ボーダーブレイク 設置店(2018-02-08)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 940 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6548,11 +6548,11 @@ BORDERBREAK公式サイトから店舗情報 940 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(132)</name>
+<name>東海(131)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岐阜県(17)</name>
+  <name>岐阜県(16)</name>
     <Placemark>
       <name>岐阜レジャーランド穂積店</name>
       <description><![CDATA[
@@ -6635,18 +6635,6 @@ BORDERBREAK公式サイトから店舗情報 940 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.5956108,35.3840722</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガワールド多治見</name>
-      <description><![CDATA[
-<b>登録住所：</b>岐阜県多治見市住吉町1-1-1<br />
-<b>マーカーの住所：</b>岐阜県多治見市住吉町１丁目１−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%9A%E6%B2%BB%E8%A6%8B%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.1237131,35.3435847</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -9286,13 +9274,13 @@ BORDERBREAK公式サイトから店舗情報 940 件を取得し、位置情報�
       <description><![CDATA[
 <b>登録住所：</b>兵庫県姫路市東駅前町５９<br />
 <b>マーカーの住所：</b>兵庫県姫路市東駅前町５９<br />
-<b>マーカー精度：</b>undefined<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%A7%AB%E8%B7%AF%E6%9D%B1%E9%A7%85%E5%89%8D%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>134.6926322,34.8287891</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アミパラ垂水店</name>
       <description><![CDATA[
