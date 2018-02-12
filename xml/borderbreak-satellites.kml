@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-02-08)</name>
+  <name>ボーダーブレイク 設置店(2018-02-12)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 938 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(355)</name>
+<name>関東(354)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2172,7 +2172,7 @@ BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(59)</name>
+  <name>埼玉県(58)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2867,18 +2867,6 @@ BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5314124,35.8236537</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>埼玉レジャーランド川越店</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県川越市新富町１−１７−４<br />
-<b>マーカーの住所：</b>埼玉県川越市新富町１丁目１７−４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E5%9F%BC%E7%8E%89%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%B7%9D%E8%B6%8A%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.4832077,35.9148438</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
