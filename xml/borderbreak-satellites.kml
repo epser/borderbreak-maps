@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-02-12)</name>
+  <name>ボーダーブレイク 設置店(2018-02-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 938 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 939 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 938 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(354)</name>
+<name>関東(355)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3550,7 +3550,7 @@ BORDERBREAK公式サイトから店舗情報 938 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(115)</name>
+  <name>東京都(116)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4919,6 +4919,18 @@ BORDERBREAK公式サイトから店舗情報 938 件を取得し、位置情報�
         <coordinates>139.57999,35.705311</coordinates>
       </Point>
     <styleUrl>#yellow</styleUrl>
+    </Placemark>    <Placemark>
+      <name>キラキラＡｓｏｂｏｘ秋葉原３号店</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都千代田区外神田４−４−２<br />
+<b>マーカーの住所：</b>東京都千代田区外神田４丁目４−２<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%EF%BC%A1%EF%BD%93%EF%BD%8F%EF%BD%82%EF%BD%8F%EF%BD%98%E7%A7%8B%E8%91%89%E5%8E%9F%EF%BC%93%E5%8F%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7718383,35.7011746</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>８ＧＡＭＥＳ　上板橋</name>
       <description><![CDATA[
