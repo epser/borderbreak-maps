@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-01)</name>
+  <name>ボーダーブレイク 設置店(2018-03-02)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(109)</name>
+<name>北海道・東北(110)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1139,7 +1139,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福島県(20)</name>
+  <name>福島県(21)</name>
     <Placemark>
       <name>スーパーノバ福島</name>
       <description><![CDATA[
@@ -1380,12 +1380,24 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
         <coordinates>140.916569,37.0123394</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーＦ郡山オリエントパーク店</name>
+      <description><![CDATA[
+<b>登録住所：</b>福島県郡山市安積町荒井字大久保３５−１<br />
+<b>マーカーの住所：</b>福島県郡山市安積町荒井大久保３５−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%EF%BC%A6%E9%83%A1%E5%B1%B1%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>140.3487551,37.3744762</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
 </Folder>
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(354)</name>
+<name>関東(353)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1927,7 +1939,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>群馬県(19)</name>
+  <name>群馬県(18)</name>
     <Placemark>
       <name>THE 3RD PLANET 高崎店</name>
       <description><![CDATA[
@@ -2142,18 +2154,6 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.2474556,36.3284328</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>夢中惑星館林店</name>
-      <description><![CDATA[
-<b>登録住所：</b>群馬県館林市東広内町１１１８−１<br />
-<b>マーカーの住所：</b>群馬県館林市東広内町１１１８−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E5%A4%A2%E4%B8%AD%E6%83%91%E6%98%9F%E9%A4%A8%E6%9E%97%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.542901,36.2583075999999</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
