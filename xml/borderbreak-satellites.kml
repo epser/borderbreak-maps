@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-03)</name>
+  <name>ボーダーブレイク 設置店(2018-03-04)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(353)</name>
+<name>関東(354)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3538,7 +3538,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(115)</name>
+  <name>東京都(116)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4365,6 +4365,18 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.4146375,35.696969</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ゲームＷ</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都豊島区南長崎5-27-6<br />
+<b>マーカーの住所：</b>東京都豊島区南長崎５丁目２７−６<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%B7%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6830552,35.7290743</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6524,7 +6536,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(129)</name>
+<name>東海(128)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7887,7 +7899,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>三重県(17)</name>
+  <name>三重県(16)</name>
     <Placemark>
       <name>ゲームチャオ松阪店</name>
       <description><![CDATA[
@@ -8068,18 +8080,6 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
         <coordinates>136.5249172,35.0076727</coordinates>
       </Point>
     <styleUrl>#red</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントパークイオン四日市泊店</name>
-      <description><![CDATA[
-<b>登録住所：</b>三重県四日市市泊小柳町4-5　イオンタウン四日市泊店内<br />
-<b>マーカーの住所：</b>三重県四日市市泊小柳町４−５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A4%E3%82%AA%E3%83%B3%E5%9B%9B%E6%97%A5%E5%B8%82%E6%B3%8A%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.6012905,34.9382254</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アミパラ鈴鹿店</name>
       <description><![CDATA[
