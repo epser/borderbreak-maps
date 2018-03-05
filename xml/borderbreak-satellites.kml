@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-04)</name>
+  <name>ボーダーブレイク 設置店(2018-03-05)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -10455,11 +10455,11 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(86)</name>
+<name>九州・沖縄(85)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(34)</name>
+  <name>福岡県(33)</name>
     <Placemark>
       <name>タイトー 博多パピヨンプラザ店</name>
       <description><![CDATA[
@@ -10854,18 +10854,6 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.4215918,33.5881302</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ジーパラ博多</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県福岡市博多区東光寺町２丁目６番４０号コマーシャルモール博多２階<br />
-<b>マーカーの住所：</b>福岡県福岡市博多区東光寺町２丁目６−４０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%BC%E3%83%91%E3%83%A9%E5%8D%9A%E5%A4%9A%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.4361139,33.5769923</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
