@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-05)</name>
+  <name>ボーダーブレイク 設置店(2018-03-06)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -10455,7 +10455,7 @@ BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(85)</name>
+<name>九州・沖縄(86)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -11353,7 +11353,7 @@ BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>鹿児島県(9)</name>
+  <name>鹿児島県(10)</name>
     <Placemark>
       <name>サンアミューズ鹿屋店</name>
       <description><![CDATA[
@@ -11376,6 +11376,18 @@ BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.5557244,31.5894404</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ジーパラ隼人</name>
+      <description><![CDATA[
+<b>登録住所：</b>鹿児島県霧島市隼人町見次５３２−８<br />
+<b>マーカーの住所：</b>鹿児島県霧島市隼人町見次５３２<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%BC%E3%83%91%E3%83%A9%E9%9A%BC%E4%BA%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>130.7406693,31.7396707</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
