@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-06)</name>
+  <name>ボーダーブレイク 設置店(2018-03-07)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(354)</name>
+<name>関東(353)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3538,7 +3538,7 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(116)</name>
+  <name>東京都(115)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4617,18 +4617,6 @@ BORDERBREAK公式サイトから店舗情報 935 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7018139,35.6835385</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＳＡＭ’Ｓ　ＴＯＷＮ上野</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都台東区上野４−６−９湯島商事ビル<br />
-<b>マーカーの住所：</b>東京都台東区上野４丁目６−９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B3%EF%BC%A1%EF%BC%AD%E2%80%99%EF%BC%B3%E3%80%80%EF%BC%B4%EF%BC%AF%EF%BC%B7%EF%BC%AE%E4%B8%8A%E9%87%8E%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7743767,35.7088905</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
