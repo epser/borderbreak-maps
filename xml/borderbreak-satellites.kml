@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-07)</name>
+  <name>ボーダーブレイク 設置店(2018-03-08)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 933 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5673,11 +5673,11 @@ BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(68)</name>
+<name>中部(67)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(17)</name>
+  <name>新潟県(16)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -5772,18 +5772,6 @@ BORDERBREAK公式サイトから店舗情報 934 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.8096897,37.4551133</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ｎａｍｃｏシルクドゥガリバー新潟店</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県新潟市中央区南笹口１−１−１　ひもろぎビル２Ｆ<br />
-<b>マーカーの住所：</b>新潟県新潟市中央区南笹口１丁目１−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BD%8E%EF%BD%81%EF%BD%8D%EF%BD%83%EF%BD%8F%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%89%E3%82%A5%E3%82%AC%E3%83%AA%E3%83%90%E3%83%BC%E6%96%B0%E6%BD%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.0639306,37.9083652</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
