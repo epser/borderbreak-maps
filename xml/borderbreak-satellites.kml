@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-03-31)</name>
+  <name>ボーダーブレイク 設置店(2018-04-01)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -6488,7 +6488,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(127)</name>
+<name>東海(126)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6689,7 +6689,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(30)</name>
+  <name>静岡県(29)</name>
     <Placemark>
       <name>セガワールド静岡</name>
       <description><![CDATA[
@@ -6856,18 +6856,6 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.655158,35.184954</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントビービー</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県田方郡函南町間宮４３３−１<br />
-<b>マーカーの住所：</b>静岡県田方郡函南町間宮４３３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%93%E3%83%BC%E3%83%93%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.9348257,35.0827455</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -8037,7 +8025,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(106)</name>
+<name>近畿(107)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8896,7 +8884,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>兵庫県(28)</name>
+  <name>兵庫県(29)</name>
     <Placemark>
       <name>ラウンドワン三宮駅前店</name>
       <description><![CDATA[
@@ -9231,6 +9219,18 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>134.8290955,34.7510119</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーＦステーション姫路</name>
+      <description><![CDATA[
+<b>登録住所：</b>兵庫県姫路市駅前町２６９・２７０番地<br />
+<b>マーカーの住所：</b>日本、兵庫県姫路市駅前町１８８番<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%EF%BC%A6%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%A7%AB%E8%B7%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>134.6907522,34.8267609</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
