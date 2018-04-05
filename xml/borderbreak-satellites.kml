@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-01)</name>
+  <name>ボーダーブレイク 設置店(2018-04-05)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(351)</name>
+<name>関東(350)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3538,7 +3538,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(114)</name>
+  <name>東京都(113)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4824,18 +4824,6 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>自由が丘プリンス</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都目黒区自由が丘1-12-10<br />
-<b>マーカーの住所：</b>東京都目黒区自由が丘１丁目１２−１０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6696303,35.6081966</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>セガ新宿歌舞伎町</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都新宿区歌舞伎町1-21-1第二東亜会館1F・2F<br />
@@ -5649,11 +5637,11 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(67)</name>
+<name>中部(68)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(16)</name>
+  <name>新潟県(17)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -5700,6 +5688,18 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.8731195,37.4974069</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ルナパーク</name>
+      <description><![CDATA[
+<b>登録住所：</b>新潟県西蒲原郡西川町曽根1554-1<br />
+<b>マーカーの住所：</b>新潟県新潟市西蒲区曽根１５５５<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%AB%E3%83%8A%E3%83%91%E3%83%BC%E3%82%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>138.9226672,37.7988611</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
