@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-05)</name>
+  <name>ボーダーブレイク 設置店(2018-04-07)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 931 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -10058,7 +10058,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>四国(26)</name>
+<name>四国(27)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -10353,7 +10353,7 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>高知県(3)</name>
+  <name>高知県(4)</name>
     <Placemark>
       <name>アミパラ高知店</name>
       <description><![CDATA[
@@ -10388,6 +10388,18 @@ BORDERBREAK公式サイトから店舗情報 930 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.5543516,33.5578349</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ＡＭパークＭＧ須崎店</name>
+      <description><![CDATA[
+<b>登録住所：</b>高知県須崎市神田２５００−１マルナカ須崎店内 別棟<br />
+<b>マーカーの住所：</b>高知県須崎市神田下切２５００−１<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%AD%EF%BC%A7%E9%A0%88%E5%B4%8E%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>133.2978071,33.4086303</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
