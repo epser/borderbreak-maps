@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-09)</name>
+  <name>ボーダーブレイク 設置店(2018-04-13)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -898,12 +898,12 @@ BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＧＡＭＥＢＡＮＫ泉店</name>
+      <name>ＧＡＭＥＢＡＮＫ仙台泉店</name>
       <description><![CDATA[
 <b>登録住所：</b>宮城県仙台市泉区大沢２−５−４<br />
 <b>マーカーの住所：</b>宮城県仙台市泉区大沢２丁目５−４<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%EF%BC%A1%EF%BC%AD%EF%BC%A5%EF%BC%A2%EF%BC%A1%EF%BC%AE%EF%BC%AB%E6%B3%89%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%EF%BC%A7%EF%BC%A1%EF%BC%AD%EF%BC%A5%EF%BC%A2%EF%BC%A1%EF%BC%AE%EF%BC%AB%E4%BB%99%E5%8F%B0%E6%B3%89%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>140.877403,38.3527525</coordinates>
