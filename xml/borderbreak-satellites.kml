@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-13)</name>
+  <name>ボーダーブレイク 設置店(2018-04-14)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1385,7 +1385,7 @@ BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(349)</name>
+<name>関東(348)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3187,15 +3187,15 @@ BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>パレパレ稲毛長沼店</name>
+      <name>ＡＭパフェパレパレ稲毛長沼店</name>
       <description><![CDATA[
-<b>登録住所：</b>千葉県千葉市稲毛区長沼原町７３１−２５フレスポ稲毛A２棟４<br />
-<b>マーカーの住所：</b>千葉県千葉市稲毛区長沼原町７３１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%91%E3%83%AC%E3%83%91%E3%83%AC%E7%A8%B2%E6%AF%9B%E9%95%B7%E6%B2%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<b>登録住所：</b>千葉県千葉市稲毛区長沼原町７３１−１７フレスポ稲毛A２棟４<br />
+<b>マーカーの住所：</b>千葉県千葉市稲毛区長沼原町７３１−１７<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%83%91%E3%83%95%E3%82%A7%E3%83%91%E3%83%AC%E3%83%91%E3%83%AC%E7%A8%B2%E6%AF%9B%E9%95%B7%E6%B2%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.12877,35.6579518</coordinates>
+        <coordinates>140.1279061,35.6577213</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3514,7 +3514,7 @@ BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(113)</name>
+  <name>東京都(112)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4797,18 +4797,6 @@ BORDERBREAK公式サイトから店舗情報 929 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7097661,35.7305255</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ新宿歌舞伎町</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都新宿区歌舞伎町1-21-1第二東亜会館1F・2F<br />
-<b>マーカーの住所：</b>東京都新宿区歌舞伎町１丁目２１−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7013087,35.6952319</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
