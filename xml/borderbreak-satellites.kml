@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-14)</name>
+  <name>ボーダーブレイク 設置店(2018-04-15)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 927 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6452,7 +6452,7 @@ BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(126)</name>
+<name>東海(125)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7006,7 +7006,7 @@ BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(65)</name>
+  <name>愛知県(64)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7317,18 +7317,6 @@ BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.7788157,35.2518844</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントスクエア２０１</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県岡崎市岩津町川畔１１９−６<br />
-<b>マーカーの住所：</b>愛知県岡崎市岩津町川畔１１９−６<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%EF%BC%92%EF%BC%90%EF%BC%91%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.1690766,35.0074341</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -7867,13 +7855,13 @@ BORDERBREAK公式サイトから店舗情報 928 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>オークランドシティ津店</name>
       <description><![CDATA[
-<b>登録住所：</b>三重県津市雲出本郷町１８０５−３３<br />
-<b>マーカーの住所：</b>三重県津市雲出本郷町１８０５−３３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<b>登録住所：</b>三重県津市雲出本郷町１８０５−３３　２階ゲームコーナー<br />
+<b>マーカーの住所：</b>三重県津市雲出本郷町１８０５<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%86%E3%82%A3%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>136.5201397,34.6705242</coordinates>
+        <coordinates>136.5203813,34.6704714</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
