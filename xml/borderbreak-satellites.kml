@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-15)</name>
+  <name>ボーダーブレイク 設置店(2018-04-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 927 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7977,7 +7977,7 @@ BORDERBREAK公式サイトから店舗情報 927 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(107)</name>
+<name>近畿(106)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9189,20 +9189,8 @@ BORDERBREAK公式サイトから店舗情報 927 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>奈良県(3)</name>
+  <name>奈良県(2)</name>
     <Placemark>
-      <name>ラウンドワン奈良店</name>
-      <description><![CDATA[
-<b>登録住所：</b>奈良県奈良市大宮町7-1-43<br />
-<b>マーカーの住所：</b>奈良県奈良市大宮町７丁目１−４３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E5%A5%88%E8%89%AF%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.8064612,34.6839899</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミューズメントCUE奈良三条店</name>
       <description><![CDATA[
 <b>登録住所：</b>奈良県奈良市三条町478-1<br />
@@ -9701,12 +9689,12 @@ BORDERBREAK公式サイトから店舗情報 927 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ブラックジャック東広島</name>
+      <name>ブラックジャック東広島店</name>
       <description><![CDATA[
 <b>登録住所：</b>広島県東広島市西条町御薗宇6120<br />
 <b>マーカーの住所：</b>広島県東広島市西条町御薗宇６１２０<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E6%9D%B1%E5%BA%83%E5%B3%B6%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E6%9D%B1%E5%BA%83%E5%B3%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>132.7534094,34.4142181</coordinates>
