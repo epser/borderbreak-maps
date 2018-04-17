@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-04-16)</name>
+  <name>ボーダーブレイク 設置店(2018-04-17)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 925 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -10297,9 +10297,9 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
     <Placemark>
       <name>アミパラ高知店</name>
       <description><![CDATA[
-<b>登録住所：</b>高知県南国市篠原１９５−１<br />
-<b>マーカーの住所：</b>高知県南国市篠原１９４−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<b>登録住所：</b>高知県南国市篠原１９４−１<br />
+<b>マーカーの住所：</b>高知県南国市篠原１９４<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%91%E3%83%A9%E9%AB%98%E7%9F%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
@@ -10347,7 +10347,7 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(86)</name>
+<name>九州・沖縄(85)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -10833,13 +10833,13 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>三冠王バッティングセンター</name>
       <description><![CDATA[
-<b>登録住所：</b>長崎県佐世保市相浦町２６８７<br />
-<b>マーカーの住所：</b>長崎県佐世保市相浦町２６８７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>登録住所：</b>長崎県佐世保市相浦町２６８９−１<br />
+<b>マーカーの住所：</b>長崎県佐世保市相浦町２６８９<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E4%B8%89%E5%86%A0%E7%8E%8B%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>129.6520936,33.1915053</coordinates>
+        <coordinates>129.6529324,33.1910137</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -10906,7 +10906,7 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>熊本県(10)</name>
+  <name>熊本県(9)</name>
     <Placemark>
       <name>ｎａｍｃｏワンダーシティ南熊本店</name>
       <description><![CDATA[
@@ -10929,18 +10929,6 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.7148881,32.7904656</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>リッチモンド</name>
-      <description><![CDATA[
-<b>登録住所：</b>熊本県八代市旭中央通り20-3<br />
-<b>マーカーの住所：</b>熊本県八代市旭中央通２０−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.6076208,32.5042044</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
