@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-05-14)</name>
+  <name>ボーダーブレイク 設置店(2018-05-27)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6464,7 +6464,7 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(125)</name>
+<name>東海(122)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7018,7 +7018,7 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(64)</name>
+  <name>愛知県(61)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7416,30 +7416,6 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＷＡＶＥ田原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県田原市神戸町大坪１５２−１<br />
-<b>マーカーの住所：</b>愛知県田原市神戸町大坪１５２−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B7%EF%BC%A1%EF%BC%B6%EF%BC%A5%E7%94%B0%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.2767331,34.6682751</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントステーション201</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県岡崎市美合町一の久保１−６４サンリバー１Ｆ<br />
-<b>マーカーの住所：</b>愛知県岡崎市美合町一ノ久保１−６４<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3201%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.1964197,34.9237267</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ＡＤＸマミー八事店</name>
       <description><![CDATA[
 <b>登録住所：</b>愛知県名古屋市昭和区広路町字北石坂１０２−２<br />
@@ -7737,18 +7713,6 @@ BORDERBREAK公式サイトから店舗情報 926 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.9089964,35.2264606</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＡＤＸマミー刈谷店</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県刈谷市末広町１−１９<br />
-<b>マーカーの住所：</b>愛知県刈谷市末広町１丁目１９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A4%EF%BC%B8%E3%83%9E%E3%83%9F%E3%83%BC%E5%88%88%E8%B0%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.0452723,34.9742941</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
