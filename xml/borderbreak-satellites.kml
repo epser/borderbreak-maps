@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-05-27)</name>
+  <name>ボーダーブレイク 設置店(2018-05-31)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 924 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(348)</name>
+<name>関東(349)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2160,7 +2160,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(57)</name>
+  <name>埼玉県(58)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2221,6 +2221,18 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
         <coordinates>139.4831383,35.913294</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>セガワールド入間</name>
+      <description><![CDATA[
+<b>登録住所：</b>埼玉県入間市東藤沢2-18<br />
+<b>マーカーの住所：</b>埼玉県入間市東藤沢２丁目１８<br />
+<b>マーカー精度：</b>中(大まかな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%85%A5%E9%96%93%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.4183136,35.8186519</coordinates>
+      </Point>
+    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>スクウェアワン幸手店</name>
       <description><![CDATA[
