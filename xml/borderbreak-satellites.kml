@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-05-31)</name>
+  <name>ボーダーブレイク 設置店(2018-06-01)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 924 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7965,11 +7965,11 @@ BORDERBREAK公式サイトから店舗情報 924 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(105)</name>
+<name>近畿(104)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>滋賀県(12)</name>
+  <name>滋賀県(11)</name>
     <Placemark>
       <name>セガワールド草津</name>
       <description><![CDATA[
@@ -8064,18 +8064,6 @@ BORDERBREAK公式サイトから店舗情報 924 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.1479847,34.9829732</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＧＡＭＥ　ＣＥＮＴＥＲ　アクア店</name>
-      <description><![CDATA[
-<b>登録住所：</b>滋賀県近江八幡市鷹飼町１７９番地<br />
-<b>マーカーの住所：</b>滋賀県近江八幡市鷹飼町１７９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%EF%BC%A1%EF%BC%AD%EF%BC%A5%E3%80%80%EF%BC%A3%EF%BC%A5%EF%BC%AE%EF%BC%B4%EF%BC%A5%EF%BC%B2%E3%80%80%E3%82%A2%E3%82%AF%E3%82%A2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.1048836,35.1207065</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
