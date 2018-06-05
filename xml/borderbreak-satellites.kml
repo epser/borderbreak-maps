@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-01)</name>
+  <name>ボーダーブレイク 設置店(2018-06-05)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -4380,18 +4380,6 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>タイトーＦステーション南大沢店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都八王子市南大沢２−３<br />
-<b>マーカーの住所：</b>東京都八王子市南大沢２丁目３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%EF%BC%A6%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%97%E5%A4%A7%E6%B2%A2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.3798662,35.6144495</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ＹＡＺワールド八王子みなみ野店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都八王子市みなみ野１−２−１アクロスモール３Ｆ<br />
@@ -4881,6 +4869,18 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7743767,35.7088905</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーＦステーション南大沢店</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都八王子市南大沢２−３Ｆａｂ南大沢２Ｆ<br />
+<b>マーカーの住所：</b>東京都八王子市南大沢２丁目３<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%EF%BC%A6%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%97%E5%A4%A7%E6%B2%A2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.38024,35.614677</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
