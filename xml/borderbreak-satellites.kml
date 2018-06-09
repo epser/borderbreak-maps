@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-05)</name>
+  <name>ボーダーブレイク 設置店(2018-06-09)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 924 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(349)</name>
+<name>関東(350)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2402,12 +2402,12 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>モンテカルロ深谷店</name>
+      <name>モンテカルロ</name>
       <description><![CDATA[
-<b>登録住所：</b>埼玉県深谷市西島3-1-2スカイハイツ101号<br />
+<b>登録住所：</b>埼玉県深谷市西島３−１−２<br />
 <b>マーカーの住所：</b>埼玉県深谷市西島町３丁目１−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B7%B1%E8%B0%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>139.2805057,36.1919914</coordinates>
@@ -3538,7 +3538,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(112)</name>
+  <name>東京都(113)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3549,6 +3549,18 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7158493,35.7301729</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>セガ秋葉原１号館</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都千代田区外神田1-10-9<br />
+<b>マーカーの住所：</b>東京都千代田区外神田１丁目１０−９<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%A7%8B%E8%91%89%E5%8E%9F%EF%BC%91%E5%8F%B7%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7710051,35.6987749</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
