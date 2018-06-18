@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-13)</name>
+  <name>ボーダーブレイク 設置店(2018-06-18)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(109)</name>
+<name>北海道・東北(110)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -639,7 +639,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(9)</name>
+  <name>岩手県(10)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -734,6 +734,18 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>テクノワールド</name>
+      <description><![CDATA[
+<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
+<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -1385,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(350)</name>
+<name>関東(349)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1927,7 +1939,7 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>群馬県(18)</name>
+  <name>群馬県(17)</name>
     <Placemark>
       <name>THE 3RD PLANET 高崎店</name>
       <description><![CDATA[
@@ -2118,18 +2130,6 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.1052489,36.3687628</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>インターワールド沼田</name>
-      <description><![CDATA[
-<b>登録住所：</b>群馬県沼田市薄根町3700-1<br />
-<b>マーカーの住所：</b>群馬県沼田市薄根町３７００<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E6%B2%BC%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.0347729,36.6408523</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
