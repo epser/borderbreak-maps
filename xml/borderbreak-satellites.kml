@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-18)</name>
+  <name>ボーダーブレイク 設置店(2018-06-19)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5287,9 +5287,9 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>ネバーランド2座間店</name>
       <description><![CDATA[
-<b>登録住所：</b>神奈川県座間市ひばりが丘4丁目6208<br />
+<b>登録住所：</b>神奈川県座間市ひばりが丘４−１１−４８<br />
 <b>マーカーの住所：</b>神奈川県座間市ひばりが丘４丁目１１−４８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%83%8D%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%892%E5%BA%A7%E9%96%93%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
@@ -5625,11 +5625,11 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(68)</name>
+<name>中部(67)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(17)</name>
+  <name>新潟県(16)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -5664,18 +5664,6 @@ BORDERBREAK公式サイトから店舗情報 923 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.9832272,37.8827251</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スターフィールド</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県長岡市新組町2003番地1<br />
-<b>マーカーの住所：</b>新潟県長岡市新組町２００３−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.8731195,37.4974069</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
