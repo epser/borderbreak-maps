@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-19)</name>
+  <name>ボーダーブレイク 設置店(2018-06-22)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -11283,18 +11283,6 @@ BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報�
       </Point>
     <styleUrl>#red</styleUrl>
     </Placemark>    <Placemark>
-      <name>THE 3RD PLANET フレスポ国分店</name>
-      <description><![CDATA[
-<b>登録住所：</b>鹿児島県霧島市国分広瀬２−４−１ フレスポ国分内<br />
-<b>マーカーの住所：</b>鹿児島県霧島市国分広瀬２丁目４−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E3%83%95%E3%83%AC%E3%82%B9%E3%83%9D%E5%9B%BD%E5%88%86%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.7566377,31.7218347</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ゲームセンター電撃ベイサイド</name>
       <description><![CDATA[
 <b>登録住所：</b>鹿児島県鹿児島市浜町2-2<br />
@@ -11318,6 +11306,18 @@ BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報�
         <coordinates>130.5358666,31.5385733999999</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>THE 3RD PLANET 隼人店</name>
+      <description><![CDATA[
+<b>登録住所：</b>鹿児島県霧島市隼人町見次４２７−１<br />
+<b>マーカーの住所：</b>鹿児島県霧島市隼人町内<br />
+<b>マーカー精度：</b>低(○丁目単位)<br />
+<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E9%9A%BC%E4%BA%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>130.7523832,31.7628829</coordinates>
+      </Point>
+    <styleUrl>#red</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
