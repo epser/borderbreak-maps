@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-22)</name>
+  <name>ボーダーブレイク 設置店(2018-06-25)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7953,7 +7953,7 @@ BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(104)</name>
+<name>近畿(103)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8800,7 +8800,7 @@ BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>兵庫県(28)</name>
+  <name>兵庫県(27)</name>
     <Placemark>
       <name>ラウンドワン三宮駅前店</name>
       <description><![CDATA[
@@ -8933,18 +8933,6 @@ BORDERBREAK公式サイトから店舗情報 922 件を取得し、位置情報�
         <coordinates>135.4160361,34.7202465</coordinates>
       </Point>
     <styleUrl>#red</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガつかしん</name>
-      <description><![CDATA[
-<b>登録住所：</b>兵庫県尼崎市塚口本町4-8-1つかしん内<br />
-<b>マーカーの住所：</b>兵庫県尼崎市塚口本町４丁目８−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.4180485,34.7618838</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワンＪＲ尼崎駅前店</name>
       <description><![CDATA[
