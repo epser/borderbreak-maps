@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-06-25)</name>
+  <name>ボーダーブレイク 設置店(2018-06-28)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 919 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1397,7 +1397,7 @@ BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(349)</name>
+<name>関東(347)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2849,7 +2849,7 @@ BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(56)</name>
+  <name>千葉県(55)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -3283,18 +3283,6 @@ BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>チャリオット五井店</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県市原市五井中央西２−１−２<br />
-<b>マーカーの住所：</b>千葉県市原市五井中央西２丁目１−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%81%E3%83%A3%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E4%BA%94%E4%BA%95%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.0906972,35.5141711</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>佐原ミナミボウル</name>
       <description><![CDATA[
 <b>登録住所：</b>千葉県香取市佐原イ-4200<br />
@@ -3526,7 +3514,7 @@ BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(113)</name>
+  <name>東京都(112)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4569,18 +4557,6 @@ BORDERBREAK公式サイトから店舗情報 921 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.770908,35.699258</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ　代々木</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都渋谷区代々木1-35-2<br />
-<b>マーカーの住所：</b>東京都渋谷区代々木１丁目３５−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%80%80%E4%BB%A3%E3%80%85%E6%9C%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7018139,35.6835385</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
