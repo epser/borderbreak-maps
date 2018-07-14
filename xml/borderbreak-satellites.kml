@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-13)</name>
+  <name>ボーダーブレイク 設置店(2018-07-14)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7905,7 +7905,7 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(102)</name>
+<name>近畿(103)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9069,8 +9069,20 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>奈良県(2)</name>
+  <name>奈良県(3)</name>
     <Placemark>
+      <name>ラウンドワンスタジアム奈良・ミナーラ店</name>
+      <description><![CDATA[
+<b>登録住所：</b>奈良県奈良市二条大路南１−３−１ミ・ナーラ５階<br />
+<b>マーカーの住所：</b>奈良県奈良市二条大路南１丁目３−１<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E5%A5%88%E8%89%AF%E3%83%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%A9%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>135.8021921,34.6851869</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>アミューズメントCUE奈良三条店</name>
       <description><![CDATA[
 <b>登録住所：</b>奈良県奈良市三条町478-1<br />
@@ -9164,7 +9176,7 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(56)</name>
+<name>中国(57)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9435,7 +9447,7 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>広島県(20)</name>
+  <name>広島県(21)</name>
     <Placemark>
       <name>セガワールド　ＭＥＧＡ</name>
       <description><![CDATA[
@@ -9542,6 +9554,18 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.1863177,34.4030318</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>シネパーク広店</name>
+      <description><![CDATA[
+<b>登録住所：</b>広島県呉市広中町1-9<br />
+<b>マーカーの住所：</b>広島県呉市広中町１−９<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%8D%E3%83%91%E3%83%BC%E3%82%AF%E5%BA%83%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>132.6294083,34.2285551</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
