@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-16)</name>
+  <name>ボーダーブレイク 設置店(2018-07-17)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -4634,13 +4634,13 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>THE 3RD PLANET 多摩センター店</name>
       <description><![CDATA[
-<b>登録住所：</b>東京都多摩市落合1-39-2 マグレブビル２Ｆ・３Ｆ<br />
-<b>マーカーの住所：</b>東京都多摩市落合１丁目３９−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>登録住所：</b>東京都多摩市落合1-41-1マグレブウエスト1階・2階<br />
+<b>マーカーの住所：</b>東京都多摩市落合１丁目３９−１<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>139.4257126,35.624493</coordinates>
+        <coordinates>139.4255229,35.6248926</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
