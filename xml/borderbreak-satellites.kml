@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-17)</name>
+  <name>ボーダーブレイク 設置店(2018-07-22)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1385,7 +1385,7 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(346)</name>
+<name>関東(344)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3502,7 +3502,7 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(111)</name>
+  <name>東京都(109)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3513,18 +3513,6 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7158493,35.7301729</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ秋葉原１号館</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田1-10-9<br />
-<b>マーカーの住所：</b>東京都千代田区外神田１丁目１０−９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%A7%8B%E8%91%89%E5%8E%9F%EF%BC%91%E5%8F%B7%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7710051,35.6987749</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4392,18 +4380,6 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ユーズランド日の出店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都西多摩郡日の出町大字平井237-3イオンモール日の出３Ｆ<br />
-<b>マーカーの住所：</b>東京都西多摩郡日の出町平井２３７−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%89%E6%97%A5%E3%81%AE%E5%87%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.2752513,35.7348466</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミューズメントフィールド　アクス</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都目黒区中根１−３−１１<br />
@@ -4632,12 +4608,12 @@ BORDERBREAK公式サイトから店舗情報 918 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 多摩センター店</name>
+      <name>ザ・サードプラネット多摩センター店</name>
       <description><![CDATA[
-<b>登録住所：</b>東京都多摩市落合1-41-1マグレブウエスト1階・2階<br />
+<b>登録住所：</b>東京都多摩市落合１−４１−１マグレブウェスト１階・２階<br />
 <b>マーカーの住所：</b>東京都多摩市落合１丁目３９−１<br />
 <b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%B6%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>139.4255229,35.6248926</coordinates>
