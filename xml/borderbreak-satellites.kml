@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-22)</name>
+  <name>ボーダーブレイク 設置店(2018-07-23)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6404,7 +6404,7 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(122)</name>
+<name>東海(121)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6727,15 +6727,15 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>セガ掛川</name>
+      <name>THE 3RD PLANET 島田店</name>
       <description><![CDATA[
-<b>登録住所：</b>静岡県掛川市細田248<br />
-<b>マーカーの住所：</b>静岡県掛川市細田２４８<br />
+<b>登録住所：</b>静岡県島田市中溝町2531<br />
+<b>マーカーの住所：</b>静岡県島田市中溝町２５３１<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%8E%9B%E5%B7%9D%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%B3%B6%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>137.9853301,34.7738744</coordinates>
+        <coordinates>138.1658978,34.8381356</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6958,7 +6958,7 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(61)</name>
+  <name>愛知県(60)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7403,18 +7403,6 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
         <coordinates>136.9124252,35.0629999</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ユーズランド東浦店</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県知多郡東浦町緒川旭１３−２イオンモール東浦２Ｆ<br />
-<b>マーカーの住所：</b>愛知県知多郡東浦町緒川旭<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%89%E6%9D%B1%E6%B5%A6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.9769955,34.9791752</coordinates>
-      </Point>
-    <styleUrl>#red</styleUrl>
     </Placemark>    <Placemark>
       <name>セガ尾西</name>
       <description><![CDATA[
@@ -7893,7 +7881,7 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(103)</name>
+<name>近畿(102)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8716,7 +8704,7 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>兵庫県(28)</name>
+  <name>兵庫県(27)</name>
     <Placemark>
       <name>ラウンドワン三宮駅前店</name>
       <description><![CDATA[
@@ -9039,18 +9027,6 @@ BORDERBREAK公式サイトから店舗情報 916 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>134.8290955,34.7510119</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>タイトーＦステーション姫路</name>
-      <description><![CDATA[
-<b>登録住所：</b>兵庫県姫路市駅前町２６９・２７０番地<br />
-<b>マーカーの住所：</b>日本、兵庫県姫路市駅前町１８８番<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%EF%BC%A6%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%A7%AB%E8%B7%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>134.6907522,34.8267609</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
