@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-23)</name>
+  <name>ボーダーブレイク 設置店(2018-07-25)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -37,11 +37,11 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(109)</name>
+<name>北海道・東北(108)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>北海道(40)</name>
+  <name>北海道(39)</name>
     <Placemark>
       <name>ディノスパーク札幌中央</name>
       <description><![CDATA[
@@ -484,18 +484,6 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>142.3740362,43.7981968</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ソユーゲームフィールド旭川駅前店</name>
-      <description><![CDATA[
-<b>登録住所：</b>北海道旭川市宮下通７−２−５イオンモール旭川駅前４F<br />
-<b>マーカーの住所：</b>北海道旭川市宮下通７丁目２−５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BD%E3%83%A6%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E6%97%AD%E5%B7%9D%E9%A7%85%E5%89%8D%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>142.3573757,43.7640082</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -10203,7 +10191,7 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(86)</name>
+<name>九州・沖縄(87)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -10899,7 +10887,7 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大分県(10)</name>
+  <name>大分県(11)</name>
     <Placemark>
       <name>セガワールド高城</name>
       <description><![CDATA[
@@ -11018,6 +11006,18 @@ BORDERBREAK公式サイトから店舗情報 914 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>131.2114812,33.5894229</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ユーズランド三光店</name>
+      <description><![CDATA[
+<b>登録住所：</b>大分県中津市三光佐知1032イオンモール三光2F<br />
+<b>マーカーの住所：</b>大分県中津市三光佐知１０３２<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%89%E4%B8%89%E5%85%89%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>131.1920613,33.5604305</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
