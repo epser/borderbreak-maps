@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-28)</name>
+  <name>ボーダーブレイク 設置店(2018-07-31)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 906 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1373,7 +1373,7 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(343)</name>
+<name>関東(339)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2825,7 +2825,7 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(55)</name>
+  <name>千葉県(54)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -3064,18 +3064,6 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.0689981,35.7189736</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スポーツウェーブ鉄腕24</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県千葉市中央区浜野町1025-59<br />
-<b>マーカーの住所：</b>千葉県千葉市中央区浜野町１０２５−５９<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E9%89%84%E8%85%9524%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.1260538,35.5541062</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3490,7 +3478,7 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(109)</name>
+  <name>東京都(106)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3659,18 +3647,6 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
         <coordinates>139.4798517,35.7014335</coordinates>
       </Point>
     <styleUrl>#yellow</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アドアーズ中野</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都中野区中野5-52-15ブロードウェイ185<br />
-<b>マーカーの住所：</b>東京都中野区中野５丁目５２−１５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%89%E3%82%A2%E3%83%BC%E3%82%BA%E4%B8%AD%E9%87%8E%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6660908,35.7091706</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アドアーズ町田</name>
       <description><![CDATA[
@@ -4392,18 +4368,6 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>アドアーズ蒲田西口店Ｂ館</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都大田区西蒲田７−５−１０蒲田駅西口会館１階<br />
-<b>マーカーの住所：</b>東京都大田区西蒲田７丁目５−１０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%89%E3%82%A2%E3%83%BC%E3%82%BA%E8%92%B2%E7%94%B0%E8%A5%BF%E5%8F%A3%E5%BA%97%EF%BC%A2%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7153761,35.5635565</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アドアーズ上野アメ横店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１-４階<br />
@@ -4725,18 +4689,6 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7097661,35.7305255</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>タイトーステーション立川北口店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都立川市曙町２−４−５クリサス立川２・３Ｆ<br />
-<b>マーカーの住所：</b>東京都立川市曙町２丁目４−５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%AB%8B%E5%B7%9D%E5%8C%97%E5%8F%A3%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.4120958,35.6991102</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5529,11 +5481,11 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(68)</name>
+<name>中部(67)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(17)</name>
+  <name>新潟県(16)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -5640,18 +5592,6 @@ BORDERBREAK公式サイトから店舗情報 911 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.0639306,37.9083652</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>メジャーロード黒埼</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県新潟市西区山田３３０３番地（３３０２番地）<br />
-<b>マーカーの住所：</b>新潟県新潟市西区山田３３０３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E9%BB%92%E5%9F%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.0173416,37.8682204</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
