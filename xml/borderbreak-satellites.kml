@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-07-31)</name>
+  <name>ボーダーブレイク 設置店(2018-08-01)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 906 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 907 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7785,11 +7785,11 @@ BORDERBREAK公式サイトから店舗情報 906 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(101)</name>
+<name>近畿(102)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>滋賀県(10)</name>
+  <name>滋賀県(11)</name>
     <Placemark>
       <name>セガワールド草津</name>
       <description><![CDATA[
@@ -7872,6 +7872,18 @@ BORDERBREAK公式サイトから店舗情報 906 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.1479847,34.9829732</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>エースレーン堅田</name>
+      <description><![CDATA[
+<b>登録住所：</b>滋賀県大津市今堅田２−４０−１０<br />
+<b>マーカーの住所：</b>滋賀県大津市今堅田２丁目４０−１０<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%AC%E3%83%BC%E3%83%B3%E5%A0%85%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>135.9194342,35.1246449</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
