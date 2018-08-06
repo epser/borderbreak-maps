@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-08-05)</name>
+  <name>ボーダーブレイク 設置店(2018-08-06)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -6497,7 +6497,7 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(28)</name>
+  <name>静岡県(29)</name>
     <Placemark>
       <name>セガワールド静岡</name>
       <description><![CDATA[
@@ -6616,6 +6616,18 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.8337149,34.7177166</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーステーション 浜松店</name>
+      <description><![CDATA[
+<b>登録住所：</b>静岡県浜松市中区肴町３２２−２０松竹ビル<br />
+<b>マーカーの住所：</b>静岡県浜松市中区肴町３２２−２０<br />
+<b>マーカー精度：</b>高(施設単位/premise)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%B5%9C%E6%9D%BE%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>137.7303593,34.7067758</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6838,7 +6850,7 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(60)</name>
+  <name>愛知県(59)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7305,18 +7317,6 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.1631302,34.8903071</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アーバンスクエア大須店</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県名古屋市中区大須３−３０−３１<br />
-<b>マーカーの住所：</b>愛知県名古屋市中区大須３丁目３０−３１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%A4%A7%E9%A0%88%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.9054375,35.1594577</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
