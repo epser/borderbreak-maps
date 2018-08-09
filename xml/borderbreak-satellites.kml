@@ -3,7 +3,7 @@
 <Document>
   <name>ボーダーブレイク 設置店(2018-08-08)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1043,14 +1043,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>セガ米沢</name>
       <description><![CDATA[
 <b>登録住所：</b>山形県米沢市大字花沢字タナコ原177<br />
-<b>マーカーの住所：</b>山形県米沢市花沢タナコ原六<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>山形県米沢市花沢１７７<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%B1%B3%E6%B2%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.1339663,37.9110364</coordinates>
+        <coordinates>140.1336358,37.9109642</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ゲームゾーントレジャー吉原店</name>
       <description><![CDATA[
@@ -1103,14 +1103,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>プレビ　アクロスプラザ新庄店</name>
       <description><![CDATA[
 <b>登録住所：</b>山形県新庄市金沢字吉袋８５３−３ヨークタウンアクロスプラザ新庄内<br />
-<b>マーカーの住所：</b>山形県新庄市金沢吉袋<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>山形県新庄市金沢字吉袋(マーカ手動入力)<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%AC%E3%83%93%E3%80%80%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E6%96%B0%E5%BA%84%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.3061997,38.7681985</coordinates>
+        <coordinates>140.308216,38.769317</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>遊パラダイス</name>
       <description><![CDATA[
@@ -2189,14 +2189,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>セガワールド入間</name>
       <description><![CDATA[
 <b>登録住所：</b>埼玉県入間市東藤沢2-18<br />
-<b>マーカーの住所：</b>埼玉県入間市東藤沢２丁目１８<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
+<b>マーカーの住所：</b>埼玉県入間市東藤沢２丁目１８−２０<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%85%A5%E9%96%93%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>139.4183136,35.8186519</coordinates>
+        <coordinates>139.4181358,35.8191824</coordinates>
       </Point>
-    <styleUrl>#yellow</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>スクウェアワン幸手店</name>
       <description><![CDATA[
@@ -3639,14 +3639,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>タイトーステーション国分寺店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都国分寺市本町３−５−１１<br />
-<b>マーカーの住所：</b>東京都国分寺市本町３丁目５<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
+<b>マーカーの住所：</b>東京都国分寺市本町３丁目５−１<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%9B%BD%E5%88%86%E5%AF%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>139.4798517,35.7014335</coordinates>
+        <coordinates>139.4799378,35.7011169</coordinates>
       </Point>
-    <styleUrl>#yellow</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アドアーズ町田</name>
       <description><![CDATA[
@@ -6009,14 +6009,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>福井レジャーランド板垣店</name>
       <description><![CDATA[
 <b>登録住所：</b>福井県福井市下馬３−１１２<br />
-<b>マーカーの住所：</b>福井県福井市下馬３丁目<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>福井県福井市下馬３丁目１０１<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E7%A6%8F%E4%BA%95%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E6%9D%BF%E5%9E%A3%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>136.2324,36.0395762</coordinates>
+        <coordinates>136.2336471,36.0421176</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
@@ -7991,14 +7991,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>あそＶＩＶＡゲームセンター</name>
       <description><![CDATA[
 <b>登録住所：</b>京都府福知山市字堀小字下高田２１４６−１<br />
-<b>マーカーの住所：</b>京都府福知山市堀西小谷ケ丘<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>京都府福知山市堀２１４６<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%81%82%E3%81%9D%EF%BC%B6%EF%BC%A9%EF%BC%B6%EF%BC%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>135.1266132,35.2825965</coordinates>
+        <coordinates>135.1347734,35.2897041</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アミパラ京都南店</name>
       <description><![CDATA[
@@ -9020,11 +9020,11 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(57)</name>
+<name>中国(56)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>鳥取県(5)</name>
+  <name>鳥取県(4)</name>
     <Placemark>
       <name>セガワールド米子</name>
       <description><![CDATA[
@@ -9047,18 +9047,6 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>134.2105547,35.5118559</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＰＡＬＯ境港</name>
-      <description><![CDATA[
-<b>登録住所：</b>鳥取県境港市竹内団地８１−３<br />
-<b>マーカーの住所：</b>鳥取県境港市竹内団地８１−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B0%EF%BC%A1%EF%BC%AC%EF%BC%AF%E5%A2%83%E6%B8%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>133.2521351,35.5220463</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -10784,14 +10772,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>セガワールド高城</name>
       <description><![CDATA[
 <b>登録住所：</b>大分県大分市牧1-161-8<br />
-<b>マーカーの住所：</b>大分県大分市牧（大字）牧１組<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>大分県大分市牧１丁目１０−１<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E9%AB%98%E5%9F%8E%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>131.6391334,33.2355812</coordinates>
+        <coordinates>131.6373362,33.2417445</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ハイテクランドセガハーバープレイス</name>
       <description><![CDATA[
@@ -11070,14 +11058,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>ＡｍｕｓｅｍｅｎｔｃｉｔｙＧ−ＳＴＡ</name>
       <description><![CDATA[
 <b>登録住所：</b>鹿児島県薩摩川内市向田本町４９番<br />
-<b>マーカーの住所：</b>鹿児島県薩摩川内市向田町<br />
-<b>マーカー精度：</b>低(町単位)<br />
+<b>マーカーの住所：</b>鹿児島県薩摩川内市向田本町１<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
 <a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BD%8D%EF%BD%95%EF%BD%93%EF%BD%85%EF%BD%8D%EF%BD%85%EF%BD%8E%EF%BD%94%EF%BD%83%EF%BD%89%EF%BD%94%EF%BD%99%EF%BC%A7%E2%88%92%EF%BC%B3%EF%BC%B4%EF%BC%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>130.3122133,31.8094955</coordinates>
+        <coordinates>130.3074469,31.8157003</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ゲームセンター電撃ベイサイド</name>
       <description><![CDATA[
@@ -11106,14 +11094,14 @@ BORDERBREAK公式サイトから店舗情報 905 件を取得し、位置情報�
       <name>THE 3RD PLANET 隼人店</name>
       <description><![CDATA[
 <b>登録住所：</b>鹿児島県霧島市隼人町見次４２７−１<br />
-<b>マーカーの住所：</b>鹿児島県霧島市隼人町内<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>鹿児島県霧島市隼人町内(マーカー手動入力)<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E9%9A%BC%E4%BA%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>130.7523832,31.7628829</coordinates>
+        <coordinates>130.74306,31.742622</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
