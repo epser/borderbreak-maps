@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-08-08)</name>
+  <name>ボーダーブレイク 設置店(2018-08-10)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -490,14 +490,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>ラウンドワン札幌すすきの店</name>
       <description><![CDATA[
 <b>登録住所：</b>北海道札幌市中央区南五条西3-6-1<br />
-<b>マーカーの住所：</b>北海道札幌市中央区南５条西３丁目<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>北海道札幌市中央区南５条西３丁目６<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E6%9C%AD%E5%B9%8C%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>141.354524,43.0545356</coordinates>
+        <coordinates>141.353999,43.0542218</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ディノスパーク音更</name>
       <description><![CDATA[
@@ -1002,14 +1002,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>G3ポロス横手南店</name>
       <description><![CDATA[
 <b>登録住所：</b>秋田県横手市婦気大堤字中田4-1イオンスーパーセンター横手南店2階<br />
-<b>マーカーの住所：</b>秋田県横手市婦気大堤中田<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>秋田県横手市婦気大堤中田４<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=G3%E3%83%9D%E3%83%AD%E3%82%B9%E6%A8%AA%E6%89%8B%E5%8D%97%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.5522883,39.2947159</coordinates>
+        <coordinates>140.5530667,39.295689</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
@@ -5457,7 +5457,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(67)</name>
+<name>中部(66)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5795,7 +5795,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>石川県(10)</name>
+  <name>石川県(9)</name>
     <Placemark>
       <name>バイパスレジャーランド藤江本館</name>
       <description><![CDATA[
@@ -5818,18 +5818,6 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.4569926,36.3980514</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>バイパスレジャーランド宇ノ気店</name>
-      <description><![CDATA[
-<b>登録住所：</b>石川県かほく市森子85<br />
-<b>マーカーの住所：</b>石川県かほく市森子８５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%AE%87%E3%83%8E%E6%B0%97%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.7065243,36.7099747</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6296,7 +6284,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(120)</name>
+<name>東海(121)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6850,7 +6838,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(59)</name>
+  <name>愛知県(60)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7559,6 +7547,18 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
         <coordinates>136.9047514,35.1596715</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーステーションフェドラ大須店</name>
+      <description><![CDATA[
+<b>登録住所：</b>愛知県名古屋市中区大須３−３０−３１<br />
+<b>マーカーの住所：</b>愛知県名古屋市中区大須３丁目３０−３１<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A7%E3%83%89%E3%83%A9%E5%A4%A7%E9%A0%88%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>136.9054375,35.1594577</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
@@ -7736,14 +7736,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>ゲームパークＭＥＣＨＡ菰野店</name>
       <description><![CDATA[
 <b>登録住所：</b>三重県三重郡菰野町大字宿野字神明田357　イオンタウン菰野内<br />
-<b>マーカーの住所：</b>三重県三重郡菰野町宿野<br />
-<b>マーカー精度：</b>低(町単位)<br />
+<b>マーカーの住所：</b>三重県三重郡菰野町宿野３５７<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%AD%EF%BC%A5%EF%BC%A3%EF%BC%A8%EF%BC%A1%E8%8F%B0%E9%87%8E%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>136.5249172,35.0076727</coordinates>
+        <coordinates>136.5287754,35.0046733</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アミパラ鈴鹿店</name>
       <description><![CDATA[
@@ -7818,14 +7818,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>ACT草津ACTION</name>
       <description><![CDATA[
 <b>登録住所：</b>滋賀県草津市野路町1161-1<br />
-<b>マーカーの住所：</b>滋賀県草津市草津１丁目１７<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
+<b>マーカーの住所：</b>滋賀県草津市野路３丁目１−１１<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=ACT%E8%8D%89%E6%B4%A5ACTION%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>135.9664639,35.0156912</coordinates>
+        <coordinates>135.9458959,34.9990858</coordinates>
       </Point>
-    <styleUrl>#yellow</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ゲームディーノ彦根店</name>
       <description><![CDATA[
@@ -8721,14 +8721,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>ゲームプラザカウンタック</name>
       <description><![CDATA[
 <b>登録住所：</b>兵庫県尼崎市神田北通２−２５−１<br />
-<b>マーカーの住所：</b>兵庫県尼崎市神田北通２丁目<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>兵庫県尼崎市神田北通２丁目２４<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>135.4160361,34.7202465</coordinates>
+        <coordinates>135.4159472,34.7198965</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>セガつかしん</name>
       <description><![CDATA[
@@ -9320,14 +9320,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>アミパラここじゃ店</name>
       <description><![CDATA[
 <b>登録住所：</b>広島県東広島市西条町下見６−１０−１９<br />
-<b>マーカーの住所：</b>広島県東広島市西条町寺家<br />
-<b>マーカー精度：</b>低(町単位)<br />
+<b>マーカーの住所：</b>広島県東広島市西条下見６丁目１０−１９<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%91%E3%83%A9%E3%81%93%E3%81%93%E3%81%98%E3%82%83%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>132.7278188,34.4299522</coordinates>
+        <coordinates>132.7152956,34.4074625</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>アミパラ広島店</name>
       <description><![CDATA[
@@ -10844,14 +10844,14 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       <name>フリッパーズクラブ 新館</name>
       <description><![CDATA[
 <b>登録住所：</b>大分県大分市片島字上川原148-1<br />
-<b>マーカーの住所：</b>大分県大分市片島米良７組上<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
+<b>マーカーの住所：</b>大分県大分市片島１４８<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%83%95%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%BA%E3%82%AF%E3%83%A9%E3%83%96%20%E6%96%B0%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>131.6382205,33.2048904</coordinates>
+        <coordinates>131.6217905,33.2181605</coordinates>
       </Point>
-    <styleUrl>#red</styleUrl>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>スプロール稙田店</name>
       <description><![CDATA[
