@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-08-10)</name>
+  <name>ボーダーブレイク 設置店(2018-08-13)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -10071,7 +10071,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(87)</name>
+<name>九州・沖縄(85)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -10904,7 +10904,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>宮崎県(7)</name>
+  <name>宮崎県(6)</name>
     <Placemark>
       <name>ナムコランド日向店</name>
       <description><![CDATA[
@@ -10954,18 +10954,6 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ゲオ延岡店</name>
-      <description><![CDATA[
-<b>登録住所：</b>宮崎県延岡市出北３−１９−１７<br />
-<b>マーカーの住所：</b>宮崎県延岡市出北３丁目１９−１７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%82%AA%E5%BB%B6%E5%B2%A1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>131.6827395,32.5724517</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>サンゲームス都城北店</name>
       <description><![CDATA[
 <b>登録住所：</b>宮崎県都城市上川東4-5997-4<br />
@@ -10993,7 +10981,7 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>鹿児島県(9)</name>
+  <name>鹿児島県(8)</name>
     <Placemark>
       <name>サンアミューズ鹿屋店</name>
       <description><![CDATA[
@@ -11088,18 +11076,6 @@ BORDERBREAK公式サイトから店舗情報 904 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.5358666,31.5385733999999</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 隼人店</name>
-      <description><![CDATA[
-<b>登録住所：</b>鹿児島県霧島市隼人町見次４２７−１<br />
-<b>マーカーの住所：</b>鹿児島県霧島市隼人町内(マーカー手動入力)<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E9%9A%BC%E4%BA%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.74306,31.742622</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
