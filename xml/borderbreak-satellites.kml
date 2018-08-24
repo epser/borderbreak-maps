@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-08-21)</name>
+  <name>ボーダーブレイク 設置店(2018-08-24)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 900 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1373,7 +1373,7 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(337)</name>
+<name>関東(335)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3478,7 +3478,7 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(104)</name>
+  <name>東京都(102)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3705,18 +3705,6 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.414818,35.6973884</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>シルクハット蒲田Ｍ２</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都大田区西蒲田７−６−３プリンス会館<br />
-<b>マーカーの住所：</b>東京都大田区西蒲田７丁目６−４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%8F%E3%83%83%E3%83%88%E8%92%B2%E7%94%B0%EF%BC%AD%EF%BC%92%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7147733,35.563624</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4329,18 +4317,6 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6754878,35.6175262</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>東京レジャーランド秋葉原2号店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田4-3-3ミナミビル6F・7F<br />
-<b>マーカーの住所：</b>東京都千代田区外神田４丁目３−３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%A7%8B%E8%91%89%E5%8E%9F2%E5%8F%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7718773,35.7007521</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6284,7 +6260,7 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(121)</name>
+<name>東海(120)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6485,7 +6461,7 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(29)</name>
+  <name>静岡県(28)</name>
     <Placemark>
       <name>セガワールド静岡</name>
       <description><![CDATA[
@@ -6760,18 +6736,6 @@ BORDERBREAK公式サイトから店舗情報 903 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.707728,34.7677219</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＳＵＰＥＲＷＡＶＥ静岡</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県静岡市駿河区中吉田１５−８<br />
-<b>マーカーの住所：</b>静岡県静岡市駿河区中吉田１５−８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B3%EF%BC%B5%EF%BC%B0%EF%BC%A5%EF%BC%B2%EF%BC%B7%EF%BC%A1%EF%BC%B6%EF%BC%A5%E9%9D%99%E5%B2%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.4341823,34.9999798</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
