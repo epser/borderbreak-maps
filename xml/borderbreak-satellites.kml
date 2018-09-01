@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-08-28)</name>
+  <name>ボーダーブレイク 設置店(2018-09-01)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 900 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(108)</name>
+<name>北海道・東北(107)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1014,7 +1014,7 @@ BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山形県(10)</name>
+  <name>山形県(9)</name>
     <Placemark>
       <name>カレッジスクエア</name>
       <description><![CDATA[
@@ -1097,18 +1097,6 @@ BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8443865,38.758127</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>プレビ　アクロスプラザ新庄店</name>
-      <description><![CDATA[
-<b>登録住所：</b>山形県新庄市金沢字吉袋８５３−３ヨークタウンアクロスプラザ新庄内<br />
-<b>マーカーの住所：</b>山形県新庄市金沢字吉袋(マーカ手動入力)<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%AC%E3%83%93%E3%80%80%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E6%96%B0%E5%BA%84%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.308216,38.769317</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -1373,11 +1361,11 @@ BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(337)</name>
+<name>関東(336)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>茨城県(25)</name>
+  <name>茨城県(24)</name>
     <Placemark>
       <name>ＧＡＭＥ ＰＡＤＤＯＣＫ＋１</name>
       <description><![CDATA[
@@ -1424,18 +1412,6 @@ BORDERBREAK公式サイトから店舗情報 902 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.9665309,36.1702653</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>プラサカプコン土浦店</name>
-      <description><![CDATA[
-<b>登録住所：</b>茨城県土浦市真鍋2-1-29<br />
-<b>マーカーの住所：</b>茨城県土浦市真鍋２丁目１−２９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%A9%E3%82%B5%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%E5%9C%9F%E6%B5%A6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.1989081,36.0903063</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
