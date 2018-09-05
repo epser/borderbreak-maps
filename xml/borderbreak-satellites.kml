@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-02)</name>
+  <name>ボーダーブレイク 設置店(2018-09-05)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 899 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 898 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,11 +37,11 @@ BORDERBREAK公式サイトから店舗情報 899 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(107)</name>
+<name>北海道・東北(106)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>北海道(39)</name>
+  <name>北海道(38)</name>
     <Placemark>
       <name>ディノスパーク札幌中央</name>
       <description><![CDATA[
@@ -436,18 +436,6 @@ BORDERBREAK公式サイトから店舗情報 899 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>144.4083016,43.0092529</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>キャッツアイ麻生店</name>
-      <description><![CDATA[
-<b>登録住所：</b>北海道札幌市北区北４０条西４−１−１パボッツ麻生１階<br />
-<b>マーカーの住所：</b>北海道札幌市北区北４０条西４丁目１−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E9%BA%BB%E7%94%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.3396637,43.1078814</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
