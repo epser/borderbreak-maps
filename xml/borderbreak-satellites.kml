@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-06)</name>
+  <name>ボーダーブレイク 設置店(2018-09-07)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -4572,18 +4572,6 @@ BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>フェドラＢＩＧＦＵＮ平和島店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都大田区平和島１−１−１　３階<br />
-<b>マーカーの住所：</b>東京都大田区平和島１丁目１−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%95%E3%82%A7%E3%83%89%E3%83%A9%EF%BC%A2%EF%BC%A9%EF%BC%A7%EF%BC%A6%EF%BC%B5%EF%BC%AE%E5%B9%B3%E5%92%8C%E5%B3%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7399285,35.5852404</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミューズメントパークアトム</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都葛飾区東金町１−４４−１金町TVビル1-２階<br />
@@ -4665,6 +4653,18 @@ BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.38024,35.614677</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>タイトーステーションＢＩＧＦＵＮ平和島店</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都大田区平和島１丁目１−１ＢＩＧＦＵＮ平和島<br />
+<b>マーカーの住所：</b>東京都大田区平和島１丁目１−１<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%A2%EF%BC%A9%EF%BC%A7%EF%BC%A6%EF%BC%B5%EF%BC%AE%E5%B9%B3%E5%92%8C%E5%B3%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7399481,35.5852237</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
