@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-07)</name>
+  <name>ボーダーブレイク 設置店(2018-09-08)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 896 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7689,11 +7689,11 @@ BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(101)</name>
+<name>近畿(100)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>滋賀県(10)</name>
+  <name>滋賀県(9)</name>
     <Placemark>
       <name>セガワールド草津</name>
       <description><![CDATA[
@@ -7716,18 +7716,6 @@ BORDERBREAK公式サイトから店舗情報 897 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.0972444,34.9952821</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミュージアム草津店</name>
-      <description><![CDATA[
-<b>登録住所：</b>滋賀県栗東市小柿7-8-8<br />
-<b>マーカーの住所：</b>滋賀県栗東市小柿７丁目８−８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E8%8D%89%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.9712986,35.0211498</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
