@@ -3,7 +3,7 @@
 <Document>
   <name>ボーダーブレイク 設置店(2018-09-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 896 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1361,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(327)</name>
+<name>関東(334)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3466,7 +3466,7 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(100)</name>
+  <name>東京都(101)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4128,6 +4128,18 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
+      <name>シルクハット　八王子</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都八王子市旭町２−５　八王子ツインタワービル３階<br />
+<b>マーカーの住所：</b>東京都八王子市旭町２−５<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%8F%E3%83%83%E3%83%88%E3%80%80%E5%85%AB%E7%8E%8B%E5%AD%90%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.338483,35.656433</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>タイトーステーション 祖師谷大蔵店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都世田谷区砧８−１０−１プラッツ砧１Ｆ<br />
@@ -4671,7 +4683,7 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(54)</name>
+  <name>神奈川県(60)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -4721,6 +4733,30 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
+      <name>シルクハット　横須賀中央</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県横須賀市若松町１−５プライムビル地下１階<br />
+<b>マーカーの住所：</b>神奈川県横須賀市若松町１丁目５<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%8F%E3%83%83%E3%83%88%E3%80%80%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6708672,35.2792441</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ＡＭサントロペ伊勢佐木町</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県横浜市中区伊勢佐木町３−９６ 日活会館３階<br />
+<b>マーカーの住所：</b>神奈川県横浜市中区伊勢佐木町３丁目９６<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AD%E3%83%9A%E4%BC%8A%E5%8B%A2%E4%BD%90%E6%9C%A8%E7%94%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6301797,35.4427175</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>ムトス相模原店</name>
       <description><![CDATA[
 <b>登録住所：</b>神奈川県相模原市中央区中央２−１−５<br />
@@ -4742,6 +4778,30 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5318297,35.3995319</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>シルクハット本厚木</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県厚木市中町２−４−１３　本厚木駅前ビル<br />
+<b>マーカーの住所：</b>神奈川県厚木市中町２丁目４−１３<br />
+<b>マーカー精度：</b>高(施設単位/premise)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%8F%E3%83%83%E3%83%88%E6%9C%AC%E5%8E%9A%E6%9C%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.3653545,35.440577</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ＡＭ ＰＩＡ 川崎モアーズ</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県川崎市川崎区駅前本町７番地　岡田屋モアーズ１・２階<br />
+<b>マーカーの住所：</b>神奈川県川崎市川崎区駅前本町７<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%20%EF%BC%B0%EF%BC%A9%EF%BC%A1%20%E5%B7%9D%E5%B4%8E%E3%83%A2%E3%82%A2%E3%83%BC%E3%82%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6996382,35.530542</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5069,6 +5129,18 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
+      <name>シルクハット　川崎ダイス</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県川崎市川崎区駅前本町８番地ダイスビル地下２階<br />
+<b>マーカーの住所：</b>神奈川県川崎市川崎区駅前本町８<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%8F%E3%83%83%E3%83%88%E3%80%80%E5%B7%9D%E5%B4%8E%E3%83%80%E3%82%A4%E3%82%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7003541,35.5314724</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>ゲームリスボア</name>
       <description><![CDATA[
 <b>登録住所：</b>神奈川県大和市大和東１−３−１２<br />
@@ -5090,6 +5162,18 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6195525,35.3854431</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ＡＭ　ＰＩＡ　大船</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県鎌倉市大船１−２４　大船駅前ビル１〜３Ｆ<br />
+<b>マーカーの住所：</b>神奈川県鎌倉市大船１丁目２４−１<br />
+<b>マーカー精度：</b>高(施設単位/premise)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%80%80%EF%BC%B0%EF%BC%A9%EF%BC%A1%E3%80%80%E5%A4%A7%E8%88%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.5325737,35.35328</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
