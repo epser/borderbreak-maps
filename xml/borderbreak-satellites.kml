@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-21)</name>
+  <name>ボーダーブレイク 設置店(2018-09-22)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6200,7 +6200,7 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(120)</name>
+<name>東海(119)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6499,12 +6499,12 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア袋井店</name>
+      <name>セガ袋井</name>
       <description><![CDATA[
 <b>登録住所：</b>静岡県袋井市川井1142-1<br />
 <b>マーカーの住所：</b>静岡県袋井市川井１１４２−１<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E8%A2%8B%E4%BA%95%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E8%A2%8B%E4%BA%95%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>137.911439,34.7463375</coordinates>
@@ -6742,7 +6742,7 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(60)</name>
+  <name>愛知県(59)</name>
     <Placemark>
       <name>クラブセガ春日井</name>
       <description><![CDATA[
@@ -7089,18 +7089,6 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.9561987,35.0309762</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>レストハウスマミー</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県知立市山町小林24-1<br />
-<b>マーカーの住所：</b>愛知県知立市山町小林２４−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%9E%E3%83%9F%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.0488577,35.008893</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -7665,7 +7653,7 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(100)</name>
+<name>近畿(99)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7895,7 +7883,7 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大阪府(48)</name>
+  <name>大阪府(47)</name>
     <Placemark>
       <name>ハイテクランドセガ西中島</name>
       <description><![CDATA[
@@ -8242,18 +8230,6 @@ BORDERBREAK公式サイトから店舗情報 893 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.5062606,34.7728867999999</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ｎａｍｃｏ梅田店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府大阪市北区小松原町３−３ＯＳビル１〜３Ｆ<br />
-<b>マーカーの住所：</b>大阪府大阪市北区小松原町３−３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BD%8E%EF%BD%81%EF%BD%8D%EF%BD%83%EF%BD%8F%E6%A2%85%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.5003983,34.7028006</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
