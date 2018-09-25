@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-22)</name>
+  <name>ボーダーブレイク 設置店(2018-09-25)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1361,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(331)</name>
+<name>関東(329)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2438,15 +2438,15 @@ BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア埼玉花園店</name>
+      <name>セガ花園</name>
       <description><![CDATA[
-<b>登録住所：</b>埼玉県深谷市荒川359<br />
-<b>マーカーの住所：</b>埼玉県深谷市荒川３５９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%9F%BC%E7%8E%89%E8%8A%B1%E5%9C%92%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<b>登録住所：</b>埼玉県深谷市荒川356<br />
+<b>マーカーの住所：</b>埼玉県深谷市荒川３５６<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E8%8A%B1%E5%9C%92%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>139.2330687,36.1204271</coordinates>
+        <coordinates>139.2338381,36.1199216</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3454,7 +3454,7 @@ BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(99)</name>
+  <name>東京都(97)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4200,18 +4200,6 @@ BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ｎａｍｃｏ王子サンスクエア店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都北区王子１−４−１サンスクエア２階<br />
-<b>マーカーの住所：</b>東京都北区王子１丁目４−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BD%8E%EF%BD%81%EF%BD%8D%EF%BD%83%EF%BD%8F%E7%8E%8B%E5%AD%90%E3%82%B5%E3%83%B3%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7389579,35.7529737</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ＹＡＺワールド八王子みなみ野店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都八王子市みなみ野１−２−１アクロスモール３Ｆ<br />
@@ -4307,18 +4295,6 @@ BORDERBREAK公式サイトから店舗情報 891 件を取得し、位置情報�
         <coordinates>139.7721049,35.7012941</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ランブルプラザ</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都豊島区東池袋１−４２−１<br />
-<b>マーカーの住所：</b>東京都豊島区東池袋１丁目４２<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%97%E3%83%A9%E3%82%B6%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7131995,35.7324864</coordinates>
-      </Point>
-    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワン武蔵村山店</name>
       <description><![CDATA[
