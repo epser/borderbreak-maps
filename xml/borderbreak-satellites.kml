@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-09-25)</name>
+  <name>ボーダーブレイク 設置店(2018-09-26)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 887 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1361,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(329)</name>
+<name>関東(327)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -4623,7 +4623,7 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(60)</name>
+  <name>神奈川県(58)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -4634,18 +4634,6 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5797263,35.5560742</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アドアーズ大和店Ａ館</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県大和市大和東１−４−３大黒屋ビル１、２階<br />
-<b>マーカーの住所：</b>神奈川県大和市大和東１丁目４−３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%89%E3%82%A2%E3%83%BC%E3%82%BA%E5%A4%A7%E5%92%8C%E5%BA%97%EF%BC%A1%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.462345,35.4705555</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5078,18 +5066,6 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7003541,35.5314724</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲームリスボア</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県大和市大和東１−３−１２<br />
-<b>マーカーの住所：</b>神奈川県大和市大和東１丁目３−１２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%AA%E3%82%B9%E3%83%9C%E3%82%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.4619311,35.4704861</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5751,15 +5727,15 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>コスモパーク白山</name>
       <description><![CDATA[
-<b>登録住所：</b>石川県白山市中奥町190-1<br />
-<b>マーカーの住所：</b>石川県白山市中奥町１９０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>登録住所：</b>石川県白山市中奥町１８９−１<br />
+<b>マーカーの住所：</b>石川県白山市中成<br />
+<b>マーカー精度：</b>低(○丁目単位)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%B3%E3%82%B9%E3%83%A2%E3%83%91%E3%83%BC%E3%82%AF%E7%99%BD%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>136.5794972,36.5196778</coordinates>
+        <coordinates>136.5548614,36.5277083</coordinates>
       </Point>
-    <styleUrl>#blue</styleUrl>
+    <styleUrl>#red</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワン金沢店</name>
       <description><![CDATA[
@@ -6064,12 +6040,12 @@ BORDERBREAK公式サイトから店舗情報 889 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア岡谷店</name>
+      <name>セガ岡谷</name>
       <description><![CDATA[
 <b>登録住所：</b>長野県岡谷市塚間町2-1-21<br />
 <b>マーカーの住所：</b>長野県岡谷市塚間町２丁目１−２１<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%B2%A1%E8%B0%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E5%B2%A1%E8%B0%B7%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>138.0529669,36.0652257</coordinates>
