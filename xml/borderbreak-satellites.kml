@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-04)</name>
+  <name>ボーダーブレイク 設置店(2018-10-05)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1373,7 +1373,7 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(326)</name>
+<name>関東(324)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2112,7 +2112,7 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(58)</name>
+  <name>埼玉県(57)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2219,18 +2219,6 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5041488,35.791518</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ブーボスボス坂戸店</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県坂戸市片柳1732-1<br />
-<b>マーカーの住所：</b>埼玉県坂戸市片柳１７３２−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%96%E3%83%BC%E3%83%9C%E3%82%B9%E3%83%9C%E3%82%B9%E5%9D%82%E6%88%B8%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.405119,35.9772835</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -2813,7 +2801,7 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(54)</name>
+  <name>千葉県(55)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -3187,6 +3175,18 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
+      <name>ぷりモール宝島　本八幡店</name>
+      <description><![CDATA[
+<b>登録住所：</b>千葉県市川市八幡2-6-7<br />
+<b>マーカーの住所：</b>千葉県市川市八幡２丁目６−７<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%81%B7%E3%82%8A%E3%83%A2%E3%83%BC%E3%83%AB%E5%AE%9D%E5%B3%B6%E3%80%80%E6%9C%AC%E5%85%AB%E5%B9%A1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.928013,35.7218477</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>YAZワールド野田七光台店</name>
       <description><![CDATA[
 <b>登録住所：</b>千葉県野田市七光台4-2<br />
@@ -3466,7 +3466,7 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(96)</name>
+  <name>東京都(94)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3984,18 +3984,6 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>東京レジャーランド秋葉原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田1-9-5<br />
-<b>マーカーの住所：</b>東京都千代田区外神田１丁目９−５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7701162,35.6988776</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>○×△□（ラくトス）</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都葛飾区新小岩１−４４−６<br />
@@ -4236,18 +4224,6 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ユーズランド日の出店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都西多摩郡日の出町大字平井237-3イオンモール日の出３Ｆ<br />
-<b>マーカーの住所：</b>東京都西多摩郡日の出町平井２３７−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%89%E6%97%A5%E3%81%AE%E5%87%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.2752513,35.7348466</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミューズメントフィールド　アクス</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都目黒区中根１−３−１１<br />
@@ -4295,6 +4271,18 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
         <coordinates>139.7721049,35.7012941</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ランブルプラザ</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都豊島区東池袋１−４２−１<br />
+<b>マーカーの住所：</b>東京都豊島区東池袋１丁目４２<br />
+<b>マーカー精度：</b>中(大まかな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%97%E3%83%A9%E3%82%B6%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7131995,35.7324864</coordinates>
+      </Point>
+    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワン武蔵村山店</name>
       <description><![CDATA[
@@ -4509,18 +4497,6 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6386376,35.64052</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>東京レジャーランド亀有店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都葛飾区亀有3-21-2<br />
-<b>マーカーの住所：</b>東京都葛飾区亀有３丁目２１−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%80%E6%9C%89%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8479365,35.7654192</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5325,11 +5301,11 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(66)</name>
+<name>中部(65)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(16)</name>
+  <name>新潟県(15)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -5436,18 +5412,6 @@ BORDERBREAK公式サイトから店舗情報 886 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.0639306,37.9083652</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ビルボードプレイスゲームコーナー</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県新潟市中央区八千代2-5-7<br />
-<b>マーカーの住所：</b>新潟県新潟市中央区八千代２丁目５−７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%93%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.0530698,37.9163677</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
