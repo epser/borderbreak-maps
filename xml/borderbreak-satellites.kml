@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-05)</name>
+  <name>ボーダーブレイク 設置店(2018-10-06)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 879 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6116,7 +6116,7 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(119)</name>
+<name>東海(118)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7371,7 +7371,7 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>三重県(16)</name>
+  <name>三重県(15)</name>
     <Placemark>
       <name>ゲームチャオ松阪店</name>
       <description><![CDATA[
@@ -7541,18 +7541,6 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ゲームパークＭＥＣＨＡ菰野店</name>
-      <description><![CDATA[
-<b>登録住所：</b>三重県三重郡菰野町大字宿野字神明田357　イオンタウン菰野内<br />
-<b>マーカーの住所：</b>三重県三重郡菰野町宿野３５７<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%AD%EF%BC%A5%EF%BC%A3%EF%BC%A8%EF%BC%A1%E8%8F%B0%E9%87%8E%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.5287754,35.0046733</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミパラ鈴鹿店</name>
       <description><![CDATA[
 <b>登録住所：</b>三重県鈴鹿市西条町字東澤430-1<br />
@@ -7569,7 +7557,7 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(99)</name>
+<name>近畿(96)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -7799,7 +7787,7 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大阪府(47)</name>
+  <name>大阪府(45)</name>
     <Placemark>
       <name>ハイテクランドセガ西中島</name>
       <description><![CDATA[
@@ -8026,30 +8014,6 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.6209477,34.7632654</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>星狩物語岸和田店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府岸和田市作才町1-3-2<br />
-<b>マーカーの住所：</b>大阪府岸和田市作才町１丁目３−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E6%98%9F%E7%8B%A9%E7%89%A9%E8%AA%9E%E5%B2%B8%E5%92%8C%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.3850002,34.4544936</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲーム　フェイス　松原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府松原市大堀1-1-9<br />
-<b>マーカーの住所：</b>大阪府松原市大堀１丁目１−９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%80%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%80%80%E6%9D%BE%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.5717537,34.584823</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -8368,7 +8332,7 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>兵庫県(26)</name>
+  <name>兵庫県(25)</name>
     <Placemark>
       <name>ラウンドワン三宮駅前店</name>
       <description><![CDATA[
@@ -8439,18 +8403,6 @@ BORDERBREAK公式サイトから店舗情報 883 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>134.6911463,34.8288891</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ジョイプラザ豊岡店</name>
-      <description><![CDATA[
-<b>登録住所：</b>兵庫県豊岡市加広町７−３２コープデイズ豊岡内<br />
-<b>マーカーの住所：</b>兵庫県豊岡市加広町７−３２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E8%B1%8A%E5%B2%A1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>134.8163318,35.5508414</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
