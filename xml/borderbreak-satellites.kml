@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-07)</name>
+  <name>ボーダーブレイク 設置店(2018-10-08)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 875 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -9747,11 +9747,11 @@ BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(86)</name>
+<name>九州・沖縄(85)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(34)</name>
+  <name>福岡県(32)</name>
     <Placemark>
       <name>タイトー 博多パピヨンプラザ店</name>
       <description><![CDATA[
@@ -9957,18 +9957,6 @@ BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>G-COM和白店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県福岡市東区和白3-27-69<br />
-<b>マーカーの住所：</b>福岡県福岡市東区和白３丁目２７−７０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=G-COM%E5%92%8C%E7%99%BD%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.4319204,33.6905661</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ラウンドワン小倉店</name>
       <description><![CDATA[
 <b>登録住所：</b>福岡県北九州市小倉北区西港町15-65<br />
@@ -10050,18 +10038,6 @@ BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.4523752,33.6732937</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＴＡＣ北方店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県北九州市小倉南区北方４−１−１１−１Ｆ<br />
-<b>マーカーの住所：</b>福岡県北九州市小倉南区北方４丁目１−１１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B4%EF%BC%A1%EF%BC%A3%E5%8C%97%E6%96%B9%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.8793059,33.8456136</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -10782,7 +10758,7 @@ BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>沖縄県(3)</name>
+  <name>沖縄県(4)</name>
     <Placemark>
       <name>ラウンドワン沖縄・宜野湾店</name>
       <description><![CDATA[
@@ -10817,6 +10793,18 @@ BORDERBREAK公式サイトから店舗情報 876 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>127.6686921,26.1246229</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ゲームランドジョイジャングルＩｎカデナ</name>
+      <description><![CDATA[
+<b>登録住所：</b>沖縄県嘉手納町字兼久３７２ネーブルカデナ南館２Ｆ<br />
+<b>マーカーの住所：</b>沖縄県中頭郡嘉手納町兼久３７２<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB%EF%BC%A9%EF%BD%8E%E3%82%AB%E3%83%87%E3%83%8A%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>127.7439478,26.3526544</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
