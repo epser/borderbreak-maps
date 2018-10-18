@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-16)</name>
+  <name>ボーダーブレイク 設置店(2018-10-18)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 869 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -9699,7 +9699,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(84)</name>
+<name>九州・沖縄(83)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -10698,7 +10698,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>沖縄県(4)</name>
+  <name>沖縄県(3)</name>
     <Placemark>
       <name>ラウンドワン沖縄・宜野湾店</name>
       <description><![CDATA[
@@ -10721,18 +10721,6 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>127.7212046,26.1952629</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ミルキーランドしおざき</name>
-      <description><![CDATA[
-<b>登録住所：</b>沖縄県糸満市潮崎町２−２<br />
-<b>マーカーの住所：</b>沖縄県糸満市潮崎町２丁目２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%9F%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%97%E3%81%8A%E3%81%96%E3%81%8D%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>127.6686921,26.1246229</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
