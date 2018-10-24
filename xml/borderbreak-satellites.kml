@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-21)</name>
+  <name>ボーダーブレイク 設置店(2018-10-24)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 869 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(108)</name>
+<name>北海道・東北(107)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1139,7 +1139,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福島県(19)</name>
+  <name>福島県(18)</name>
     <Placemark>
       <name>スーパーノバ福島</name>
       <description><![CDATA[
@@ -1321,18 +1321,6 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ディノスパーク南福島</name>
-      <description><![CDATA[
-<b>登録住所：</b>福島県福島市黒岩字中沖43番地2号<br />
-<b>マーカーの住所：</b>福島県福島市黒岩中沖４３−２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%87%E3%82%A3%E3%83%8E%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E5%8D%97%E7%A6%8F%E5%B3%B6%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.4611918,37.7269707</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>BOOKOFFいわき平店</name>
       <description><![CDATA[
 <b>登録住所：</b>福島県いわき市平上荒川砂屋戸27-3<br />
@@ -1373,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(322)</name>
+<name>関東(324)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2112,7 +2100,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(57)</name>
+  <name>埼玉県(58)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2797,11 +2785,23 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
         <coordinates>139.5314124,35.8236537</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>アピナ大宮店</name>
+      <description><![CDATA[
+<b>登録住所：</b>埼玉県さいたま市大宮区仲町１−１９<br />
+<b>マーカーの住所：</b>埼玉県さいたま市大宮区仲町１丁目<br />
+<b>マーカー精度：</b>中(大まかな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%94%E3%83%8A%E5%A4%A7%E5%AE%AE%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6264401,35.9052678</coordinates>
+      </Point>
+    <styleUrl>#yellow</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(55)</name>
+  <name>千葉県(56)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -3172,6 +3172,18 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.926098,35.7216291</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>プラサカプコン富津店</name>
+      <description><![CDATA[
+<b>登録住所：</b>千葉県富津市青木1-5-1イオンモール富津内ゲームコーナー<br />
+<b>マーカーの住所：</b>千葉県富津市青木１丁目５−１<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%A9%E3%82%B5%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%E5%AF%8C%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.8454571,35.3304664</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
