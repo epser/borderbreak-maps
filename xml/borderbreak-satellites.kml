@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-10-26)</name>
+  <name>ボーダーブレイク 設置店(2018-10-28)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(107)</name>
+<name>北海道・東北(106)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -615,7 +615,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(11)</name>
+  <name>岩手県(10)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -722,18 +722,6 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.1113181,39.3105898</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>テクノワールド</name>
-      <description><![CDATA[
-<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
-<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -1361,7 +1349,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(324)</name>
+<name>関東(323)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3478,7 +3466,7 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(92)</name>
+  <name>東京都(91)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4449,18 +4437,6 @@ BORDERBREAK公式サイトから店舗情報 870 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7107046,35.7525008</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スマイル館お茶の水店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区神田小川町3-6<br />
-<b>マーカーの住所：</b>東京都千代田区神田小川町３丁目６<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E9%A4%A8%E3%81%8A%E8%8C%B6%E3%81%AE%E6%B0%B4%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7621696,35.6952473</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
