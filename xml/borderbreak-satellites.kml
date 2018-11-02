@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-01)</name>
+  <name>ボーダーブレイク 設置店(2018-11-02)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 866 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1361,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(323)</name>
+<name>関東(321)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1658,7 +1658,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>栃木県(19)</name>
+  <name>栃木県(18)</name>
     <Placemark>
       <name>アーバンスクエア安佐エース店</name>
       <description><![CDATA[
@@ -1705,18 +1705,6 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8915485,36.5438973</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガワールド小山</name>
-      <description><![CDATA[
-<b>登録住所：</b>栃木県小山市東城南1-1-18<br />
-<b>マーカーの住所：</b>栃木県小山市東城南１丁目１−１８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%B0%8F%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8101635,36.2989766</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3478,7 +3466,7 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(91)</name>
+  <name>東京都(90)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -3957,18 +3945,6 @@ BORDERBREAK公式サイトから店舗情報 868 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8258366,35.6989755</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>タイトーステーション 秋葉原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田４−２−２貴三ビル<br />
-<b>マーカーの住所：</b>東京都千代田区外神田４丁目２−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7716689,35.7002497</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
