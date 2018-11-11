@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-08)</name>
+  <name>ボーダーブレイク 設置店(2018-11-11)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1349,7 +1349,7 @@ BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(321)</name>
+<name>関東(320)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3454,7 +3454,7 @@ BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(90)</name>
+  <name>東京都(89)</name>
     <Placemark>
       <name>セガ池袋ＧＩＧＯ</name>
       <description><![CDATA[
@@ -4173,18 +4173,6 @@ BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8620753,35.6683027</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントフィールド　アクス</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都目黒区中根１−３−１１<br />
-<b>マーカーの住所：</b>東京都目黒区中根１丁目３−１１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%80%80%E3%82%A2%E3%82%AF%E3%82%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6754878,35.6175262</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
