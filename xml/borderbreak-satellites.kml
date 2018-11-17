@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-16)</name>
+  <name>ボーダーブレイク 設置店(2018-11-17)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -5836,12 +5836,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>セガワールド上田</name>
+      <name>セガ上田</name>
       <description><![CDATA[
 <b>登録住所：</b>長野県上田市大字上田1847-1<br />
 <b>マーカーの住所：</b>長野県上田市上田１８４７−１<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E4%B8%8A%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E4%B8%8A%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>138.2618371,36.4130158</coordinates>
@@ -6134,12 +6134,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>セガワールド多治見</name>
+      <name>セガ多治見</name>
       <description><![CDATA[
 <b>登録住所：</b>岐阜県多治見市住吉町1-1-1<br />
 <b>マーカーの住所：</b>岐阜県多治見市住吉町１丁目１−１<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%9A%E6%B2%BB%E8%A6%8B%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E5%A4%9A%E6%B2%BB%E8%A6%8B%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>137.1237131,35.3435847</coordinates>
@@ -6355,12 +6355,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア磐田店</name>
+      <name>ＡＧスクエア磐田</name>
       <description><![CDATA[
 <b>登録住所：</b>静岡県磐田市下万能413<br />
 <b>マーカーの住所：</b>静岡県磐田市下万能４１３<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E7%A3%90%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E7%A3%90%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>137.8337149,34.7177166</coordinates>
@@ -6451,12 +6451,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>セガワールド　サントムーン</name>
+      <name>セガワールドサントムーン</name>
       <description><![CDATA[
 <b>登録住所：</b>静岡県駿東郡清水町玉川61-2<br />
 <b>マーカーの住所：</b>静岡県駿東郡清水町玉川６１−２<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%80%80%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A0%E3%83%BC%E3%83%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A0%E3%83%BC%E3%83%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>138.9033198,35.1098338</coordinates>
@@ -6588,12 +6588,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 <visibility>1</visibility>
   <name>愛知県(59)</name>
     <Placemark>
-      <name>クラブセガ春日井</name>
+      <name>セガ春日井</name>
       <description><![CDATA[
 <b>登録住所：</b>愛知県春日井市岩野町4180<br />
 <b>マーカーの住所：</b>愛知県春日井市岩野町４１８０<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AF%E3%83%A9%E3%83%96%E3%82%BB%E3%82%AC%E6%98%A5%E6%97%A5%E4%BA%95%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%98%A5%E6%97%A5%E4%BA%95%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>136.9598709,35.269457</coordinates>
@@ -7577,13 +7577,13 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>アミパラ草津店</name>
       <description><![CDATA[
-<b>登録住所：</b>滋賀県草津市木川町311-1JJタウン木川2F<br />
-<b>マーカーの住所：</b>滋賀県草津市木川町３１１−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<b>登録住所：</b>滋賀県草津市木川町72<br />
+<b>マーカーの住所：</b>滋賀県草津市木川町７２<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%91%E3%83%A9%E8%8D%89%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>135.9431956,35.0200023</coordinates>
+        <coordinates>135.9424846,35.0192274</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
