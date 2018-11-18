@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-17)</name>
+  <name>ボーダーブレイク 設置店(2018-11-18)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -7485,7 +7485,7 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(90)</name>
+<name>近畿(91)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8077,12 +8077,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＣＬＵＢＳＥＧＡ藤井寺</name>
+      <name>クラブセガ藤井寺</name>
       <description><![CDATA[
 <b>登録住所：</b>大阪府藤井寺市沢田1-20-8<br />
 <b>マーカーの住所：</b>大阪府藤井寺市沢田１丁目２０−８<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A3%EF%BC%AC%EF%BC%B5%EF%BC%A2%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%E8%97%A4%E4%BA%95%E5%AF%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%AF%E3%83%A9%E3%83%96%E3%82%BB%E3%82%AC%E8%97%A4%E4%BA%95%E5%AF%BA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>135.6057839,34.5727748</coordinates>
@@ -8137,12 +8137,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア東大阪店</name>
+      <name>セガ東大阪</name>
       <description><![CDATA[
 <b>登録住所：</b>大阪府東大阪市稲田新町3-9-64<br />
 <b>マーカーの住所：</b>大阪府東大阪市稲田新町３丁目９−６４<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%9D%B1%E5%A4%A7%E9%98%AA%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>135.5908467,34.6914647</coordinates>
@@ -8224,7 +8224,7 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>兵庫県(24)</name>
+  <name>兵庫県(25)</name>
     <Placemark>
       <name>ラウンドワン三宮駅前店</name>
       <description><![CDATA[
@@ -8286,12 +8286,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＣＬＵＢＳＥＧＡ姫路ＯＳ</name>
+      <name>クラブセガ姫路ＯＳ</name>
       <description><![CDATA[
 <b>登録住所：</b>兵庫県姫路市駅前町254姫路OSビルB1F<br />
 <b>マーカーの住所：</b>兵庫県姫路市駅前町２５４<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A3%EF%BC%AC%EF%BC%B5%EF%BC%A2%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%E5%A7%AB%E8%B7%AF%EF%BC%AF%EF%BC%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%AF%E3%83%A9%E3%83%96%E3%82%BB%E3%82%AC%E5%A7%AB%E8%B7%AF%EF%BC%AF%EF%BC%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>134.6911463,34.8288891</coordinates>
@@ -8511,6 +8511,18 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>134.8290955,34.7510119</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>アピナ姫路店</name>
+      <description><![CDATA[
+<b>登録住所：</b>兵庫県姫路市東郷町１４５４−３姫路リオス２階<br />
+<b>マーカーの住所：</b>兵庫県姫路市東郷町１４５４−３<br />
+<b>マーカー精度：</b>高(施設単位/subpremise)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%94%E3%83%8A%E5%A7%AB%E8%B7%AF%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>134.7151307,34.8268329</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -8849,12 +8861,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 <visibility>1</visibility>
   <name>広島県(20)</name>
     <Placemark>
-      <name>セガワールド　ＭＥＧＡ</name>
+      <name>セガワールドＭＥＧＡ</name>
       <description><![CDATA[
 <b>登録住所：</b>広島県広島市安佐南区中筋4-11-7<br />
 <b>マーカーの住所：</b>広島県広島市安佐南区中筋４丁目１１−７<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%80%80%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%AD%EF%BC%A5%EF%BC%A7%EF%BC%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>132.4788739,34.4553242</coordinates>
@@ -9106,12 +9118,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア小郡店</name>
+      <name>セガ小郡</name>
       <description><![CDATA[
 <b>登録住所：</b>山口県山口市小郡前田町3-6ロックタウン<br />
 <b>マーカーの住所：</b>山口県山口市小郡前田町３−６<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%B0%8F%E9%83%A1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E5%B0%8F%E9%83%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>131.3986628,34.0869865</coordinates>
