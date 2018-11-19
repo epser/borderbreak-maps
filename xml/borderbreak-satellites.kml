@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-18)</name>
+  <name>ボーダーブレイク 設置店(2018-11-19)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -9753,12 +9753,12 @@ BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＳＥＧＡＡＲＥＮＡ中間</name>
+      <name>セガアリーナ中間</name>
       <description><![CDATA[
 <b>登録住所：</b>福岡県中間市上蓮花寺3-1-1<br />
 <b>マーカーの住所：</b>福岡県中間市上蓮花寺３丁目１−１<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%A1%EF%BC%B2%EF%BC%A5%EF%BC%AE%EF%BC%A1%E4%B8%AD%E9%96%93%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E4%B8%AD%E9%96%93%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>130.7217145,33.8229688</coordinates>
@@ -10058,12 +10058,12 @@ BORDERBREAK公式サイトから店舗情報 864 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＧスクエア佐賀武雄店</name>
+      <name>セガ武雄</name>
       <description><![CDATA[
 <b>登録住所：</b>佐賀県武雄市武雄町富岡12517-1<br />
 <b>マーカーの住所：</b>佐賀県武雄市武雄町大字富岡１２５１７−１<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E4%BD%90%E8%B3%80%E6%AD%A6%E9%9B%84%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%AD%A6%E9%9B%84%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>130.0346461,33.1993539</coordinates>
