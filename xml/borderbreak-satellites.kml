@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-20)</name>
+  <name>ボーダーブレイク 設置店(2018-11-21)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 861 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1361,7 +1361,7 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(318)</name>
+<name>関東(316)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3454,7 +3454,7 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(89)</name>
+  <name>東京都(88)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -4044,18 +4044,6 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>タイトーステーション 祖師谷大蔵店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都世田谷区砧８−１０−１プラッツ砧１Ｆ<br />
-<b>マーカーの住所：</b>東京都世田谷区砧８丁目１０−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E7%A5%96%E5%B8%AB%E8%B0%B7%E5%A4%A7%E8%94%B5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6084764,35.6425038</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ゲームサファリ大山</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都板橋区大山東町60-10やすだ大山駅前店2F<br />
@@ -4527,7 +4515,7 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(57)</name>
+  <name>神奈川県(56)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -4790,18 +4778,6 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5533904,35.5197977</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントパークジアス新横浜店</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県横浜市港北区新横浜2-1-19<br />
-<b>マーカーの住所：</b>神奈川県横浜市港北区新横浜２丁目１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B8%E3%82%A2%E3%82%B9%E6%96%B0%E6%A8%AA%E6%B5%9C%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6163875,35.5071225</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5235,12 +5211,12 @@ BORDERBREAK公式サイトから店舗情報 863 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>アミューズメントパーク宝島十日町店</name>
+      <name>キラキラＡｓｏｂｏｘ十日町店</name>
       <description><![CDATA[
 <b>登録住所：</b>新潟県十日町市字上島丑７３５−１妻有ショッピングセンター内<br />
 <b>マーカーの住所：</b>新潟県十日町市丑５９６−１<br />
 <b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E5%AE%9D%E5%B3%B6%E5%8D%81%E6%97%A5%E7%94%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%EF%BC%A1%EF%BD%93%EF%BD%8F%EF%BD%82%EF%BD%8F%EF%BD%98%E5%8D%81%E6%97%A5%E7%94%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>138.748647,37.138322</coordinates>
