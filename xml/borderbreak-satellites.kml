@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-25)</name>
+  <name>ボーダーブレイク 設置店(2018-11-26)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 859 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1373,7 +1373,7 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(316)</name>
+<name>関東(313)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3466,7 +3466,7 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(88)</name>
+  <name>東京都(87)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3897,18 +3897,6 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.4524691,35.5430109</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ秋葉原2号館</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田1-15-1<br />
-<b>マーカーの住所：</b>東京都千代田区外神田１丁目１５−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%A7%8B%E8%91%89%E5%8E%9F2%E5%8F%B7%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7714551,35.697775</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4527,7 +4515,7 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(56)</name>
+  <name>神奈川県(54)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -4646,18 +4634,6 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.4358387,35.5321942</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントパークジアス上大岡</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県横浜市港南区上大岡西2-1-28<br />
-<b>マーカーの住所：</b>神奈川県横浜市港南区上大岡西２丁目１−２８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B8%E3%82%A2%E3%82%B9%E4%B8%8A%E5%A4%A7%E5%B2%A1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.5961022,35.4066319</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4850,18 +4826,6 @@ BORDERBREAK公式サイトから店舗情報 862 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6371792,35.5319981</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>タイトーステーション 小田原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県小田原市栄町１−３−１２<br />
-<b>マーカーの住所：</b>神奈川県小田原市栄町１丁目３−１２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.1561373,35.2549374</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
