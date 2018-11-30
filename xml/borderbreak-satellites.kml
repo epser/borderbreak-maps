@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-11-29)</name>
+  <name>ボーダーブレイク 設置店(2018-11-30)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 860 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 861 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1385,7 +1385,7 @@ BORDERBREAK公式サイトから店舗情報 860 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(313)</name>
+<name>関東(314)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -4527,7 +4527,7 @@ BORDERBREAK公式サイトから店舗情報 860 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(54)</name>
+  <name>神奈川県(55)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -5176,6 +5176,18 @@ BORDERBREAK公式サイトから店舗情報 860 件を取得し、位置情報�
         <coordinates>139.3555312,35.3364796</coordinates>
       </Point>
     <styleUrl>#yellow</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ｎｉｃｏｍａｒｕ＋西橋本店</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県相模原市緑区西橋本5-4-3ホームセンターコーナン相模原西橋本店1F<br />
+<b>マーカーの住所：</b>神奈川県相模原市西橋本５丁目４−３<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%EF%BD%8E%EF%BD%89%EF%BD%83%EF%BD%8F%EF%BD%8D%EF%BD%81%EF%BD%92%EF%BD%95%EF%BC%8B%E8%A5%BF%E6%A9%8B%E6%9C%AC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.334493,35.596984</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
 </Folder>
 <Folder>
