@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-12-04)</name>
+  <name>ボーダーブレイク 設置店(2018-12-05)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -1658,7 +1658,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>栃木県(18)</name>
+  <name>栃木県(19)</name>
     <Placemark>
       <name>アーバンスクエア安佐エース店</name>
       <description><![CDATA[
@@ -1705,6 +1705,18 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8915485,36.5438973</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>セガワールド小山</name>
+      <description><![CDATA[
+<b>登録住所：</b>栃木県小山市東城南1-1-18<br />
+<b>マーカーの住所：</b>栃木県小山市東城南１丁目１−１８<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%B0%8F%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.8101635,36.2989766</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -2789,7 +2801,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(55)</name>
+  <name>千葉県(54)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -3355,18 +3367,6 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>茂原ミナミボウル</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県茂原市高師４−５−２<br />
-<b>マーカーの住所：</b>千葉県茂原市高師４−５－２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E8%8C%82%E5%8E%9F%E3%83%9F%E3%83%8A%E3%83%9F%E3%83%9C%E3%82%A6%E3%83%AB%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.2931729,35.4350236</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミューズメントパレスワンダーヴュー成田</name>
       <description><![CDATA[
 <b>登録住所：</b>千葉県成田市飯仲11-18<br />
@@ -3744,12 +3744,12 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>タイトーイン 綾瀬店</name>
+      <name>タイトーステーション綾瀬店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都足立区綾瀬４−９−２９ホーキョボナービル<br />
 <b>マーカーの住所：</b>東京都足立区綾瀬４丁目９−２９<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%A4%E3%83%B3%20%E7%B6%BE%E7%80%AC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B6%BE%E7%80%AC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>139.8230201,35.762266</coordinates>
