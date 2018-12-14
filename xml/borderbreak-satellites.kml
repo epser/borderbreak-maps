@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-12-05)</name>
+  <name>ボーダーブレイク 設置店(2018-12-14)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(107)</name>
+<name>北海道・東北(105)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -93,13 +93,13 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>キャッツアイ清田店</name>
       <description><![CDATA[
-<b>登録住所：</b>北海道札幌市清田区清田１−１−２０−１<br />
-<b>マーカーの住所：</b>北海道札幌市清田区清田２条１丁目１−２０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>登録住所：</b>北海道札幌市清田区清田１条１−２０−１<br />
+<b>マーカーの住所：</b>北海道札幌市清田区清田１条１丁目２０−１<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84%E3%82%A2%E3%82%A4%E6%B8%85%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>141.4272231,43.0056399</coordinates>
+        <coordinates>141.4363873,43.0029856</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -615,7 +615,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(10)</name>
+  <name>岩手県(8)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -710,30 +710,6 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミューズメントグレア</name>
-      <description><![CDATA[
-<b>登録住所：</b>岩手県北上市藤沢２０−３５<br />
-<b>マーカーの住所：</b>岩手県北上市藤沢２０地割３５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AC%E3%82%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.1113181,39.3105898</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>テクノワールド</name>
-      <description><![CDATA[
-<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
-<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -1365,7 +1341,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>茨城県(24)</name>
+  <name>茨城県(25)</name>
     <Placemark>
       <name>ＧＡＭＥ ＰＡＤＤＯＣＫ＋１</name>
       <description><![CDATA[
@@ -1652,6 +1628,18 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.4437351,36.3504628</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ピンクパンサー土浦店</name>
+      <description><![CDATA[
+<b>登録住所：</b>茨城県土浦市木田余４５８５−３<br />
+<b>マーカーの住所：</b>茨城県土浦市木田余４５８５<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%94%E3%83%B3%E3%82%AF%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%E5%9C%9F%E6%B5%A6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>140.2151975,36.1065463</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -3045,13 +3033,13 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>ラッキーバッティングドーム八千代店</name>
       <description><![CDATA[
-<b>登録住所：</b>千葉県八千代市大和田新田字八幡後1088<br />
-<b>マーカーの住所：</b>千葉県八千代市大和田新田８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
+<b>登録住所：</b>千葉県八千代市大和田新田1088<br />
+<b>マーカーの住所：</b>千葉県八千代市大和田新田１０８８<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AB%E5%8D%83%E4%BB%A3%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.0689981,35.7189736</coordinates>
+        <coordinates>140.0673786,35.7232675</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3454,7 +3442,7 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(87)</name>
+  <name>東京都(86)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -4233,18 +4221,6 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7033457,35.7126797</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ秋葉原3号館</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田1-11-11外神田１丁目ビルディング<br />
-<b>マーカーの住所：</b>東京都千代田区外神田１丁目１１−１１<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%A7%8B%E8%91%89%E5%8E%9F3%E5%8F%B7%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.770908,35.699258</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5984,11 +5960,11 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(118)</name>
+<name>東海(117)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岐阜県(16)</name>
+  <name>岐阜県(15)</name>
     <Placemark>
       <name>岐阜レジャーランド穂積店</name>
       <description><![CDATA[
@@ -6143,18 +6119,6 @@ BORDERBREAK公式サイトから店舗情報 858 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.0163891,35.4507887</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>オリエンタルバッティング可児店</name>
-      <description><![CDATA[
-<b>登録住所：</b>岐阜県可児市今渡６９５−１<br />
-<b>マーカーの住所：</b>岐阜県可児市今渡６９５−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%8F%AF%E5%85%90%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.0390542,35.4295361</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
