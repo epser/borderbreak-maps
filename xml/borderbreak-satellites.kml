@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-12-14)</name>
+  <name>ボーダーブレイク 設置店(2018-12-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8504,7 +8504,7 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(54)</name>
+<name>中国(53)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8751,7 +8751,7 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>広島県(20)</name>
+  <name>広島県(19)</name>
     <Placemark>
       <name>セガワールドＭＥＧＡ</name>
       <description><![CDATA[
@@ -8870,18 +8870,6 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>132.6294083,34.2285551</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＡＭパークＭＧジアス店</name>
-      <description><![CDATA[
-<b>登録住所：</b>広島県福山市柳津町１−７−６０<br />
-<b>マーカーの住所：</b>広島県福山市柳津町１丁目７−６０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%AD%EF%BC%A7%E3%82%B8%E3%82%A2%E3%82%B9%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>133.2607375,34.4408088</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
