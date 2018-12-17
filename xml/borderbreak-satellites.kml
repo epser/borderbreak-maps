@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-12-16)</name>
+  <name>ボーダーブレイク 設置店(2018-12-17)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -9170,7 +9170,7 @@ BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>四国(27)</name>
+<name>四国(28)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9340,8 +9340,20 @@ BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛媛県(10)</name>
+  <name>愛媛県(11)</name>
     <Placemark>
+      <name>グラントシティＭＧＩＮＮキスケ</name>
+      <description><![CDATA[
+<b>登録住所：</b>愛媛県松山市宮田町４ キスケボックス内１階<br />
+<b>マーカーの住所：</b>愛媛県松山市宮田町４−４<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%AD%EF%BC%A7%EF%BC%A9%EF%BC%AE%EF%BC%AE%E3%82%AD%E3%82%B9%E3%82%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>132.7529712,33.8412761</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
       <name>駅前スタジアム３</name>
       <description><![CDATA[
 <b>登録住所：</b>愛媛県松山市大手町２丁目４−１<br />
@@ -9519,11 +9531,11 @@ BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(83)</name>
+<name>九州・沖縄(82)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(32)</name>
+  <name>福岡県(31)</name>
     <Placemark>
       <name>タイトー 博多パピヨンプラザ店</name>
       <description><![CDATA[
@@ -9882,18 +9894,6 @@ BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.445373,33.6091283</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>Ｇ−ｐａｌａ小倉</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県北九州市小倉南区上葛原1−14−1<br />
-<b>マーカーの住所：</b>福岡県北九州市小倉南区上葛原１丁目１４−１<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%E2%88%92%EF%BD%90%EF%BD%81%EF%BD%8C%EF%BD%81%E5%B0%8F%E5%80%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.9112667,33.8395955</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
