@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2018-12-28)</name>
+  <name>ボーダーブレイク 設置店(2018-12-30)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 854 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8516,7 +8516,7 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(53)</name>
+<name>中国(52)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8573,7 +8573,7 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>島根県(4)</name>
+  <name>島根県(3)</name>
     <Placemark>
       <name>ジーパラ出雲</name>
       <description><![CDATA[
@@ -8608,18 +8608,6 @@ BORDERBREAK公式サイトから店舗情報 855 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.1918612,35.4325245</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ビバーチ松江店</name>
-      <description><![CDATA[
-<b>登録住所：</b>島根県松江市東朝日町２０３−１<br />
-<b>マーカーの住所：</b>島根県松江市東朝日町２０３−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%93%E3%83%90%E3%83%BC%E3%83%81%E6%9D%BE%E6%B1%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>133.0741396,35.4636718</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
