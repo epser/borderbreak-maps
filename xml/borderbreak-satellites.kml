@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-01-04)</name>
+  <name>ボーダーブレイク 設置店(2019-01-07)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1337,7 +1337,7 @@ BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(314)</name>
+<name>関東(316)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3442,7 +3442,7 @@ BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(86)</name>
+  <name>東京都(87)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3921,6 +3921,18 @@ BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.446952,35.649656</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ジョイランド・ザボン</name>
+      <description><![CDATA[
+<b>登録住所：</b>東京都千代田区有楽町２−９−１２<br />
+<b>マーカーの住所：</b>東京都千代田区有楽町２丁目９(経緯度手動補正済み)<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B6%E3%83%9C%E3%83%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.763879,35.675322</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4479,7 +4491,7 @@ BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(55)</name>
+  <name>神奈川県(56)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -5128,6 +5140,18 @@ BORDERBREAK公式サイトから店舗情報 849 件を取得し、位置情報�
         <coordinates>139.3555312,35.3364796</coordinates>
       </Point>
     <styleUrl>#yellow</styleUrl>
+    </Placemark>    <Placemark>
+      <name>キラキラＡｓｏｂｏｘ関内店</name>
+      <description><![CDATA[
+<b>登録住所：</b>神奈川県横浜市中区真砂町３−３３セルテ４Ｆ<br />
+<b>マーカーの住所：</b>日本、神奈川県横浜市中区<br />
+<b>マーカー精度：</b>高(施設単位/subpremise)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%EF%BC%A1%EF%BD%93%EF%BD%8F%EF%BD%82%EF%BD%8F%EF%BD%98%E9%96%A2%E5%86%85%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.6358446,35.4448813</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
       <name>ｎｉｃｏｍａｒｕ＋西橋本店</name>
       <description><![CDATA[
