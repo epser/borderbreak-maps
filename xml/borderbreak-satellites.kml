@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-01-08)</name>
+  <name>ボーダーブレイク 設置店(2019-01-14)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 853 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 852 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -9158,11 +9158,11 @@ BORDERBREAK公式サイトから店舗情報 853 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>四国(28)</name>
+<name>四国(27)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>徳島県(5)</name>
+  <name>徳島県(4)</name>
     <Placemark>
       <name>セガ徳島スエヒロボウル</name>
       <description><![CDATA[
@@ -9175,18 +9175,6 @@ BORDERBREAK公式サイトから店舗情報 853 件を取得し、位置情報�
         <coordinates>134.5736976,34.061274</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アポロゲームセンター沖洲店</name>
-      <description><![CDATA[
-<b>登録住所：</b>徳島県徳島市南沖洲１−９３−１<br />
-<b>マーカーの住所：</b>徳島県徳島市南沖洲１丁目<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B2%96%E6%B4%B2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>134.5836439,34.0657791</coordinates>
-      </Point>
-    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>ＰＡＬＯ小松島</name>
       <description><![CDATA[
