@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-01-19)</name>
+  <name>ボーダーブレイク 設置店(2019-01-20)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(104)</name>
+<name>北海道・東北(103)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -615,7 +615,7 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(8)</name>
+  <name>岩手県(9)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -710,6 +710,18 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>アミューズメントグレア</name>
+      <description><![CDATA[
+<b>登録住所：</b>岩手県北上市藤沢２０−３５<br />
+<b>マーカーの住所：</b>岩手県北上市藤沢２０地割３５<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AC%E3%82%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>141.1113181,39.3105898</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -990,20 +1002,8 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山形県(9)</name>
+  <name>山形県(8)</name>
     <Placemark>
-      <name>カレッジスクエア</name>
-      <description><![CDATA[
-<b>登録住所：</b>山形県山形市小白川町１−１−７<br />
-<b>マーカーの住所：</b>山形県山形市小白川町１丁目１−７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AB%E3%83%AC%E3%83%83%E3%82%B8%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.3470041,38.2448207</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>スーパーノバ天童</name>
       <description><![CDATA[
 <b>登録住所：</b>山形県天童市南町1-5-26<br />
@@ -1103,7 +1103,7 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福島県(18)</name>
+  <name>福島県(17)</name>
     <Placemark>
       <name>スーパーノバ福島</name>
       <description><![CDATA[
@@ -1201,18 +1201,6 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ｎａｍｃｏイオンタウン郡山店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福島県郡山市松木町２−８８イオンタウン郡山内<br />
-<b>マーカーの住所：</b>福島県郡山市松木町２−８８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BD%8E%EF%BD%81%EF%BD%8D%EF%BD%83%EF%BD%8F%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%B3%E9%83%A1%E5%B1%B1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.3893342,37.3909751</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ＳＯＹＵ　Ｅ−ＳＴＵＤＩＯ須賀川店</name>
       <description><![CDATA[
 <b>登録住所：</b>福島県須賀川市古河１０５イオンタウン須賀川Ｂ棟内<br />
@@ -1275,13 +1263,13 @@ BORDERBREAK公式サイトから店舗情報 851 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>タイトーアミューズメントシティ郡山</name>
       <description><![CDATA[
-<b>登録住所：</b>福島県郡山市南2-38　フレスポ郡山店<br />
-<b>マーカーの住所：</b>福島県郡山市南2−３８<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
+<b>登録住所：</b>福島県郡山市南2-38　フレスポ郡山内<br />
+<b>マーカーの住所：</b>福島県郡山市南２丁目３８<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E9%83%A1%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.3721836,37.3687049</coordinates>
+        <coordinates>140.3722447,37.3690243</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
