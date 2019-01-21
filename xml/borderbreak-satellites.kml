@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-01-20)</name>
+  <name>ボーダーブレイク 設置店(2019-01-21)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 847 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1313,7 +1313,7 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(316)</name>
+<name>関東(315)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2961,7 +2961,7 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>千葉レジャーランド稲毛店</name>
       <description><![CDATA[
-<b>登録住所：</b>千葉県千葉市稲毛区小仲台2-5-7海宝ビル2F・3F<br />
+<b>登録住所：</b>千葉県千葉市稲毛区小仲台2-5-7海宝ビル2F<br />
 <b>マーカーの住所：</b>千葉県千葉市稲毛区小仲台２丁目５−７<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
 <a href="http://www.google.co.jp/search?q=%E5%8D%83%E8%91%89%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%A8%B2%E6%AF%9B%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
@@ -3369,13 +3369,13 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>スーパービバホーム新習志野店２階</name>
       <description><![CDATA[
-<b>登録住所：</b>千葉県習志野市茜浜1-1-2 2F<br />
+<b>登録住所：</b>千葉県習志野市茜浜１−１−２　スーパービバホーム２Ｆ<br />
 <b>マーカーの住所：</b>千葉県習志野市茜浜１丁目１−２<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
+<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
 <a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%93%E3%83%90%E3%83%9B%E3%83%BC%E3%83%A0%E6%96%B0%E7%BF%92%E5%BF%97%E9%87%8E%E5%BA%97%EF%BC%92%E9%9A%8E%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>140.000331,35.6769634</coordinates>
+        <coordinates>140.000331,35.676963</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3418,7 +3418,7 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(87)</name>
+  <name>東京都(86)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -4185,18 +4185,6 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7033457,35.7126797</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ秋葉原3号館</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都千代田区外神田1-11-11外神田１丁目ビルディング<br />
-<b>マーカーの住所：</b>東京都千代田区外神田１丁目１１−１１<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E7%A7%8B%E8%91%89%E5%8E%9F3%E5%8F%B7%E9%A4%A8%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.770908,35.699258</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5145,7 +5133,7 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(65)</name>
+<name>中部(63)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5471,7 +5459,7 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>石川県(9)</name>
+  <name>石川県(7)</name>
     <Placemark>
       <name>バイパスレジャーランド藤江本館</name>
       <description><![CDATA[
@@ -5482,18 +5470,6 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.6215648,36.584055</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>コスモランド小松</name>
-      <description><![CDATA[
-<b>登録住所：</b>石川県小松市有明町105-5<br />
-<b>マーカーの住所：</b>石川県小松市有明町１０５−５<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B3%E3%82%B9%E3%83%A2%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%8F%E6%9D%BE%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.4569926,36.3980514</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5532,18 +5508,6 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
         <coordinates>136.6110654,36.5366663</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>コスモパーク白山</name>
-      <description><![CDATA[
-<b>登録住所：</b>石川県白山市中奥町１８９−１<br />
-<b>マーカーの住所：</b>石川県白山市中成<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B3%E3%82%B9%E3%83%A2%E3%83%91%E3%83%BC%E3%82%AF%E7%99%BD%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.5548614,36.5277083</coordinates>
-      </Point>
-    <styleUrl>#red</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワン金沢店</name>
       <description><![CDATA[
@@ -5586,12 +5550,12 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
 <visibility>1</visibility>
   <name>福井県(8)</name>
     <Placemark>
-      <name>福井レジャーランドワイプラザ店</name>
+      <name>フクイレジャーランドワイプラザ店</name>
       <description><![CDATA[
 <b>登録住所：</b>福井県福井市新保北1-303　ヤスサキワイプラザＢ棟2Ｆ<br />
 <b>マーカーの住所：</b>福井県福井市新保町7−9−1<br />
 <b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E7%A6%8F%E4%BA%95%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>136.2494529,36.0868653</coordinates>
@@ -5672,13 +5636,13 @@ BORDERBREAK公式サイトから店舗情報 850 件を取得し、位置情報�
     </Placemark>    <Placemark>
       <name>福井レジャーランド板垣店</name>
       <description><![CDATA[
-<b>登録住所：</b>福井県福井市下馬３−１１２<br />
-<b>マーカーの住所：</b>福井県福井市下馬３丁目１０１<br />
+<b>登録住所：</b>福井県福井市下馬３−１０２<br />
+<b>マーカーの住所：</b>福井県福井市下馬３丁目１０２<br />
 <b>マーカー精度：</b>高(正確な住所)<br />
 <a href="http://www.google.co.jp/search?q=%E7%A6%8F%E4%BA%95%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E6%9D%BF%E5%9E%A3%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
-        <coordinates>136.2336471,36.0421176</coordinates>
+        <coordinates>136.2340607,36.0421426</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
