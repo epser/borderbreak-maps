@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-02-03)</name>
+  <name>ボーダーブレイク 設置店(2019-02-04)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 846 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 844 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1313,7 +1313,7 @@ BORDERBREAK公式サイトから店舗情報 846 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(316)</name>
+<name>関東(314)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3430,7 +3430,7 @@ BORDERBREAK公式サイトから店舗情報 846 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(86)</name>
+  <name>東京都(84)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3852,18 +3852,6 @@ BORDERBREAK公式サイトから店舗情報 846 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>キャロム東大和店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都東大和市立野2-2-2<br />
-<b>マーカーの住所：</b>東京都東大和市立野２丁目２−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A0%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.4169636,35.7467133</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ラウンドワン八王子店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都八王子市万町５３−１<br />
@@ -4113,18 +4101,6 @@ BORDERBREAK公式サイトから店舗情報 846 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8620753,35.6683027</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アドアーズ上野アメ横店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１-４階<br />
-<b>マーカーの住所：</b>東京都台東区上野４丁目９−１４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%89%E3%82%A2%E3%83%BC%E3%82%BA%E4%B8%8A%E9%87%8E%E3%82%A2%E3%83%A1%E6%A8%AA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7743322,35.7099682</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
