@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-02-04)</name>
+  <name>ボーダーブレイク 設置店(2019-02-07)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 844 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 843 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -9423,11 +9423,11 @@ BORDERBREAK公式サイトから店舗情報 844 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(81)</name>
+<name>九州・沖縄(80)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(31)</name>
+  <name>福岡県(30)</name>
     <Placemark>
       <name>タイトー 博多パピヨンプラザ店</name>
       <description><![CDATA[
@@ -9702,18 +9702,6 @@ BORDERBREAK公式サイトから店舗情報 844 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.438427,33.5841003</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＷＩＴＨ東バイパス店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県福岡市東区下原４−１１−３８<br />
-<b>マーカーの住所：</b>福岡県福岡市東区下原４丁目１１−３８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B7%EF%BC%A9%EF%BC%B4%EF%BC%A8%E6%9D%B1%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.4523752,33.6732937</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
