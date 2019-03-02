@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-02-28)</name>
+  <name>ボーダーブレイク 設置店(2019-03-02)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 835 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8990,7 +8990,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>四国(26)</name>
+<name>四国(25)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9047,7 +9047,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>香川県(7)</name>
+  <name>香川県(6)</name>
     <Placemark>
       <name>セガ高松</name>
       <description><![CDATA[
@@ -9094,18 +9094,6 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.7851985,34.295236</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>戦　香川</name>
-      <description><![CDATA[
-<b>登録住所：</b>香川県高松市高松町２５５４−１８<br />
-<b>マーカーの住所：</b>香川県高松市高松町２５５４−１８<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E6%88%A6%E3%80%80%E9%A6%99%E5%B7%9D%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>134.1057827,34.3398299</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
