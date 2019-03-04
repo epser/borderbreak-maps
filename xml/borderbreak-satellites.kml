@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-03)</name>
+  <name>ボーダーブレイク 設置店(2019-03-04)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 832 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(102)</name>
+<name>北海道・東北(101)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1079,7 +1079,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福島県(18)</name>
+  <name>福島県(17)</name>
     <Placemark>
       <name>スーパーノバ福島</name>
       <description><![CDATA[
@@ -1237,18 +1237,6 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>Ｇ３ポロス船引店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福島県田村市船引町字川代１０５リオンドールガーデン船引内<br />
-<b>マーカーの住所：</b>福島県田村市船引町船引川代１０５<br />
-<b>マーカー精度：</b>高(施設単位/premise)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%EF%BC%93%E3%83%9D%E3%83%AD%E3%82%B9%E8%88%B9%E5%BC%95%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.5912713,37.4337702</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>タイトーアミューズメントシティ郡山</name>
       <description><![CDATA[
 <b>登録住所：</b>福島県郡山市南2-38　フレスポ郡山内<br />
@@ -1301,7 +1289,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(311)</name>
+<name>関東(308)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2064,7 +2052,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(58)</name>
+  <name>埼玉県(56)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2138,18 +2126,6 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>スクウェアワン幸手店</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県幸手市上高野２１４２−１<br />
-<b>マーカーの住所：</b>埼玉県幸手市上高野（大字）−２１４２−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AF%E3%83%B3%E5%B9%B8%E6%89%8B%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7143152,36.0569772</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ラウンドワンわらび店</name>
       <description><![CDATA[
 <b>登録住所：</b>埼玉県蕨市北町５−１−６<br />
@@ -2219,18 +2195,6 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6138036,35.7866435</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スクウェアワン草加店</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県草加市西町６３２−１<br />
-<b>マーカーの住所：</b>埼玉県草加市西町６３２−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AF%E3%83%B3%E8%8D%89%E5%8A%A0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7918949,35.8309506</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3406,7 +3370,7 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(82)</name>
+  <name>東京都(81)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -4185,18 +4149,6 @@ BORDERBREAK公式サイトから店舗情報 836 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.4774004,35.6672709</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スクウェアワン武蔵小山</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都品川区小山３−２３−３ＳＤビルＢ１Ｆ<br />
-<b>マーカーの住所：</b>東京都品川区小山３丁目２３−３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AF%E3%83%B3%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.7052629,35.6186659</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
