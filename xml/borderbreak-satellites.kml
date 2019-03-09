@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-08)</name>
+  <name>ボーダーブレイク 設置店(2019-03-09)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 826 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1277,7 +1277,7 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(308)</name>
+<name>関東(304)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2717,7 +2717,7 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(53)</name>
+  <name>千葉県(51)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -2980,18 +2980,6 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.6395169,35.7235528</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ラッキー西千葉店</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県千葉市稲毛区弥生町1-15<br />
-<b>マーカーの住所：</b>千葉県千葉市稲毛区弥生町２−１２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E8%A5%BF%E5%8D%83%E8%91%89%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.1029066,35.6241693</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3342,23 +3330,11 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
         <coordinates>140.0963242,35.5253727</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲームランド津田沼店</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県習志野市津田沼１−２３−１イオンモール津田沼２Ｆ<br />
-<b>マーカーの住所：</b>千葉県習志野市津田沼１丁目２３−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89%E6%B4%A5%E7%94%B0%E6%B2%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.0250218,35.6903458</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(81)</name>
+  <name>東京都(79)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3597,18 +3573,6 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8493714,35.738992</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>プラサカプコン吉祥寺店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都武蔵野市吉祥寺本町1-10-1いなりやビルB1F<br />
-<b>マーカーの住所：</b>東京都武蔵野市吉祥寺本町１丁目１０−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%A9%E3%82%B5%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.5790984,35.705361</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4221,18 +4185,6 @@ BORDERBREAK公式サイトから店舗情報 830 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.7927886,35.7949387</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>世田谷オークラボウル</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都世田谷区桜３−２４−１<br />
-<b>マーカーの住所：</b>東京都世田谷区桜３丁目２４−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E4%B8%96%E7%94%B0%E8%B0%B7%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%9C%E3%82%A6%E3%83%AB%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6386376,35.64052</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
