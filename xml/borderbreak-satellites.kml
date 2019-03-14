@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-13)</name>
+  <name>ボーダーブレイク 設置店(2019-03-14)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 825 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1265,7 +1265,7 @@ BORDERBREAK公式サイトから店舗情報 825 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(304)</name>
+<name>関東(303)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3322,7 +3322,7 @@ BORDERBREAK公式サイトから店舗情報 825 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(79)</name>
+  <name>東京都(78)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -4199,18 +4199,6 @@ BORDERBREAK公式サイトから店舗情報 825 件を取得し、位置情報�
         <coordinates>139.7097661,35.7305255</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ラウンドワン吉祥寺店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都武蔵野市吉祥寺本町1-11-22<br />
-<b>マーカーの住所：</b>東京都武蔵野市吉祥寺本町１丁目１１<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.57999,35.705311</coordinates>
-      </Point>
-    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>８ＧＡＭＥＳ　上板橋</name>
       <description><![CDATA[
