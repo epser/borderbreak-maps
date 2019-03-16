@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-14)</name>
+  <name>ボーダーブレイク 設置店(2019-03-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 822 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8216,7 +8216,7 @@ BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(52)</name>
+<name>中国(51)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8684,7 +8684,7 @@ BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山口県(15)</name>
+  <name>山口県(14)</name>
     <Placemark>
       <name>ＳＰＥＥＤ</name>
       <description><![CDATA[
@@ -8719,18 +8719,6 @@ BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>131.2561606,33.9305864</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>フレスパランドカッタの湯</name>
-      <description><![CDATA[
-<b>登録住所：</b>山口県宇部市海南町1675<br />
-<b>マーカーの住所：</b>山口県宇部市海南町２−８<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%95%E3%83%AC%E3%82%B9%E3%83%91%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AB%E3%83%83%E3%82%BF%E3%81%AE%E6%B9%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>131.2614458,33.9584109</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -9195,11 +9183,11 @@ BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(80)</name>
+<name>九州・沖縄(79)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(29)</name>
+  <name>福岡県(28)</name>
     <Placemark>
       <name>ハイパーメッセ</name>
       <description><![CDATA[
@@ -9356,18 +9344,6 @@ BORDERBREAK公式サイトから店舗情報 824 件を取得し、位置情報�
         <coordinates>130.4196214,33.6242624</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>楽市楽座福重店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県福岡市西区石丸４−２６３−１<br />
-<b>マーカーの住所：</b>福岡県福岡市西区石丸４丁目<br />
-<b>マーカー精度：</b>低(○丁目単位)<br />
-<a href="http://www.google.co.jp/search?q=%E6%A5%BD%E5%B8%82%E6%A5%BD%E5%BA%A7%E7%A6%8F%E9%87%8D%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.3158915,33.5696428</coordinates>
-      </Point>
-    <styleUrl>#red</styleUrl>
     </Placemark>    <Placemark>
       <name>ラウンドワン福岡天神店</name>
       <description><![CDATA[
