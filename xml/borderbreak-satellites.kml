@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-17)</name>
+  <name>ボーダーブレイク 設置店(2019-03-18)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -603,7 +603,7 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(8)</name>
+  <name>岩手県(9)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -698,6 +698,18 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>テクノワールド</name>
+      <description><![CDATA[
+<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
+<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -942,7 +954,7 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山形県(8)</name>
+  <name>山形県(7)</name>
     <Placemark>
       <name>スーパーノバ天童</name>
       <description><![CDATA[
@@ -1013,18 +1025,6 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8443865,38.758127</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>遊パラダイス</name>
-      <description><![CDATA[
-<b>登録住所：</b>山形県酒田市泉町214イオンタウン酒田<br />
-<b>マーカーの住所：</b>山形県酒田市泉町２１４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E9%81%8A%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8489167,38.9354871</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -2016,7 +2016,7 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(56)</name>
+  <name>埼玉県(57)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2159,6 +2159,18 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6138036,35.7866435</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>スクウェアワン草加店</name>
+      <description><![CDATA[
+<b>登録住所：</b>埼玉県草加市西町６３２−１<br />
+<b>マーカーの住所：</b>埼玉県草加市西町６３２−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AF%E3%83%B3%E8%8D%89%E5%8A%A0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.7918949,35.8309506</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4251,7 +4263,7 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(56)</name>
+  <name>神奈川県(55)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -4706,18 +4718,6 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.4681074,35.3580369</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>タイトーステーション海老名ビナウォーク店</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県海老名市中央１−１８−１　ビナウォーク６番館２Ｆ<br />
-<b>マーカーの住所：</b>神奈川県海老名市中央１丁目１８−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BF%E3%82%A4%E3%83%88%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%B5%B7%E8%80%81%E5%90%8D%E3%83%93%E3%83%8A%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.3956832,35.4527589</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
