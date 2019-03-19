@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-18)</name>
+  <name>ボーダーブレイク 設置店(2019-03-19)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 820 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5720,11 +5720,11 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(116)</name>
+<name>東海(115)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岐阜県(15)</name>
+  <name>岐阜県(14)</name>
     <Placemark>
       <name>岐阜レジャーランド穂積店</name>
       <description><![CDATA[
@@ -5855,18 +5855,6 @@ BORDERBREAK公式サイトから店舗情報 821 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.9146717,35.4041592</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>大垣メトロポリス</name>
-      <description><![CDATA[
-<b>登録住所：</b>岐阜県大垣市三塚町西沼５２３−１<br />
-<b>マーカーの住所：</b>岐阜県大垣市三塚町字西沼523−1<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E5%A4%A7%E5%9E%A3%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.629217,35.366973</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
