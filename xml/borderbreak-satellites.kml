@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-19)</name>
+  <name>ボーダーブレイク 設置店(2019-03-21)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 820 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 819 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8192,7 +8192,7 @@ BORDERBREAK公式サイトから店舗情報 820 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(51)</name>
+<name>中国(50)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -8660,7 +8660,7 @@ BORDERBREAK公式サイトから店舗情報 820 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山口県(14)</name>
+  <name>山口県(13)</name>
     <Placemark>
       <name>ＳＰＥＥＤ</name>
       <description><![CDATA[
@@ -8695,18 +8695,6 @@ BORDERBREAK公式サイトから店舗情報 820 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>131.2561606,33.9305864</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 山口店</name>
-      <description><![CDATA[
-<b>登録住所：</b>山口県山口市湯田温泉6-8-3<br />
-<b>マーカーの住所：</b>山口県山口市湯田温泉６丁目８−３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%B1%B1%E5%8F%A3%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>131.4518356,34.1648549</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
