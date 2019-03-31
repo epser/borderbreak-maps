@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-03-30)</name>
+  <name>ボーダーブレイク 設置店(2019-03-31)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 817 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 816 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 817 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(98)</name>
+<name>北海道・東北(97)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -502,7 +502,7 @@ BORDERBREAK公式サイトから店舗情報 817 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>青森県(8)</name>
+  <name>青森県(7)</name>
     <Placemark>
       <name>青森メトロポリス</name>
       <description><![CDATA[
@@ -561,18 +561,6 @@ BORDERBREAK公式サイトから店舗情報 817 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.4999527,40.6040919</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スペースイン</name>
-      <description><![CDATA[
-<b>登録住所：</b>青森県弘前市土手町39<br />
-<b>マーカーの住所：</b>青森県弘前市土手町３９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.4724024,40.6023302</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
