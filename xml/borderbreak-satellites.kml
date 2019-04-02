@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-01)</name>
+  <name>ボーダーブレイク 設置店(2019-04-02)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 814 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5696,11 +5696,11 @@ BORDERBREAK公式サイトから店舗情報 814 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(115)</name>
+<name>東海(113)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岐阜県(14)</name>
+  <name>岐阜県(13)</name>
     <Placemark>
       <name>岐阜レジャーランド穂積店</name>
       <description><![CDATA[
@@ -5747,18 +5747,6 @@ BORDERBREAK公式サイトから店舗情報 814 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.7461877,35.3830948</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガワールド高山</name>
-      <description><![CDATA[
-<b>登録住所：</b>岐阜県高山市上岡本町7-7<br />
-<b>マーカーの住所：</b>岐阜県高山市上岡本町７丁目７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E9%AB%98%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.2436265,36.1426267</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5873,7 +5861,7 @@ BORDERBREAK公式サイトから店舗情報 814 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(27)</name>
+  <name>静岡県(26)</name>
     <Placemark>
       <name>THE 3RD PLANET OZ浜松店</name>
       <description><![CDATA[
@@ -5908,18 +5896,6 @@ BORDERBREAK公式サイトから店舗情報 814 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.6443814,34.6801612</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 焼津店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県焼津市八楠3-18-5<br />
-<b>マーカーの住所：</b>静岡県焼津市八楠３丁目１８−５<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E7%84%BC%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.307772,34.8785023</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
