@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-02)</name>
+  <name>ボーダーブレイク 設置店(2019-04-04)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 807 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -9087,11 +9087,11 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(77)</name>
+<name>九州・沖縄(72)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(26)</name>
+  <name>福岡県(23)</name>
     <Placemark>
       <name>ハイパーメッセ</name>
       <description><![CDATA[
@@ -9126,18 +9126,6 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.3973464,33.5896519</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>Ｇ−ＳＴＡＧＥ飯塚店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県飯塚市枝国６８０−２<br />
-<b>マーカーの住所：</b>福岡県飯塚市枝国６８０−２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%E2%88%92%EF%BC%B3%EF%BC%B4%EF%BC%A1%EF%BC%A7%EF%BC%A5%E9%A3%AF%E5%A1%9A%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.6757518,33.636125</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -9273,18 +9261,6 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>遊道楽仲原店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県糟屋郡粕屋町仲原2650-1<br />
-<b>マーカーの住所：</b>福岡県糟屋郡粕屋町仲原（大字）−２６５０−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E9%81%8A%E9%81%93%E6%A5%BD%E4%BB%B2%E5%8E%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.4455814,33.6083145</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>遊道楽新合川店</name>
       <description><![CDATA[
 <b>登録住所：</b>福岡県久留米市新合川1丁目6-7<br />
@@ -9369,18 +9345,6 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>大牟田Ｊ−ＧＡＭＥ</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県大牟田市旭町３−３−７<br />
-<b>マーカーの住所：</b>福岡県大牟田市旭町３丁目３−７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E5%A4%A7%E7%89%9F%E7%94%B0%EF%BC%AA%E2%88%92%EF%BC%A7%EF%BC%A1%EF%BC%AD%EF%BC%A5%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.4510236,33.0383226</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>最後の５ドル</name>
       <description><![CDATA[
 <b>登録住所：</b>福岡県糟屋郡粕屋町大字仲原2706仲原ファミリープラザ2F<br />
@@ -9408,7 +9372,7 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>佐賀県(5)</name>
+  <name>佐賀県(4)</name>
     <Placemark>
       <name>遊道楽嘉瀬店</name>
       <description><![CDATA[
@@ -9457,23 +9421,11 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
         <coordinates>130.3009961,33.2751671</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＦＡＳボウリングセンター</name>
-      <description><![CDATA[
-<b>登録住所：</b>佐賀県唐津市栄町２５８１−１ＦＡＳボウリングセンター<br />
-<b>マーカーの住所：</b>佐賀県唐津市栄町２５８１−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A6%EF%BC%A1%EF%BC%B3%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>129.9792689,33.446105</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>長崎県(7)</name>
+  <name>長崎県(6)</name>
     <Placemark>
       <name>ハイテクセガもみの木村</name>
       <description><![CDATA[
@@ -9496,18 +9448,6 @@ BORDERBREAK公式サイトから店舗情報 812 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>129.6529324,33.1910137</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲームランド松山</name>
-      <description><![CDATA[
-<b>登録住所：</b>長崎県長崎市松山町6-9<br />
-<b>マーカーの住所：</b>長崎県長崎市松山町６−９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89%E6%9D%BE%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>129.8633454,32.7742246</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
