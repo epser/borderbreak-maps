@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-06)</name>
+  <name>ボーダーブレイク 設置店(2019-04-07)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 788 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -4749,7 +4749,7 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(62)</name>
+<name>中部(59)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5063,7 +5063,7 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>石川県(7)</name>
+  <name>石川県(6)</name>
     <Placemark>
       <name>バイパスレジャーランド藤江本館</name>
       <description><![CDATA[
@@ -5086,18 +5086,6 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.9069919,37.0671913</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>バイパスレジャーランド加賀店</name>
-      <description><![CDATA[
-<b>登録住所：</b>石川県加賀市箱宮町ヲ1-1<br />
-<b>マーカーの住所：</b>石川県加賀市箱宮町ヲ１−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%8A%A0%E8%B3%80%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.4113464,36.3254321</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5152,20 +5140,8 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福井県(8)</name>
+  <name>福井県(7)</name>
     <Placemark>
-      <name>フクイレジャーランドワイプラザ店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福井県福井市新保北1-303　ヤスサキワイプラザＢ棟2Ｆ<br />
-<b>マーカーの住所：</b>福井県福井市新保町7−9−1<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.2494529,36.0868653</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ジョイランド大和田店</name>
       <description><![CDATA[
 <b>登録住所：</b>福井県福井市大和田町2-1002<br />
@@ -5306,7 +5282,7 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>長野県(18)</name>
+  <name>長野県(17)</name>
     <Placemark>
       <name>アピナ長野村山店</name>
       <description><![CDATA[
@@ -5365,18 +5341,6 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.1284063,36.0054518</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＰＡＬＯ佐久</name>
-      <description><![CDATA[
-<b>登録住所：</b>長野県佐久市岩村田６−２ステーションパーク・佐久<br />
-<b>マーカーの住所：</b>長野県佐久市岩村田６−２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B0%EF%BC%A1%EF%BC%AC%EF%BC%AF%E4%BD%90%E4%B9%85%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.4869457,36.2893976999999</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5528,11 +5492,11 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(113)</name>
+<name>東海(112)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岐阜県(13)</name>
+  <name>岐阜県(14)</name>
     <Placemark>
       <name>岐阜レジャーランド穂積店</name>
       <description><![CDATA[
@@ -5579,6 +5543,18 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.7461877,35.3830948</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>セガワールド高山</name>
+      <description><![CDATA[
+<b>登録住所：</b>岐阜県高山市上岡本町7-7<br />
+<b>マーカーの住所：</b>岐阜県高山市上岡本町７丁目７<br />
+<b>マーカー精度：</b>高(細かな番地)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E9%AB%98%E5%B1%B1%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>137.2436265,36.1426267</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5693,7 +5669,7 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(26)</name>
+  <name>静岡県(25)</name>
     <Placemark>
       <name>THE 3RD PLANET OZ浜松店</name>
       <description><![CDATA[
@@ -5776,18 +5752,6 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.911439,34.7463375</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＡＧスクエア磐田</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県磐田市下万能413<br />
-<b>マーカーの住所：</b>静岡県磐田市下万能４１３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A7%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E7%A3%90%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.8337149,34.7177166</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6010,7 +5974,7 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(59)</name>
+  <name>愛知県(58)</name>
     <Placemark>
       <name>セガ春日井</name>
       <description><![CDATA[
@@ -6393,18 +6357,6 @@ BORDERBREAK公式サイトから店舗情報 792 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.3951896,34.7236329</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＡＤＸマミー八事店</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県名古屋市昭和区広路町字北石坂１０２−２<br />
-<b>マーカーの住所：</b>愛知県名古屋市昭和区広路町北石坂１０２−２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%A4%EF%BC%B8%E3%83%9E%E3%83%9F%E3%83%BC%E5%85%AB%E4%BA%8B%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.966091,35.1360298</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
