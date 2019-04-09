@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-08)</name>
+  <name>ボーダーブレイク 設置店(2019-04-09)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 788 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 787 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -8871,7 +8871,7 @@ BORDERBREAK公式サイトから店舗情報 788 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(71)</name>
+<name>九州・沖縄(70)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -9399,7 +9399,7 @@ BORDERBREAK公式サイトから店舗情報 788 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大分県(10)</name>
+  <name>大分県(9)</name>
     <Placemark>
       <name>セガワールド高城</name>
       <description><![CDATA[
@@ -9446,18 +9446,6 @@ BORDERBREAK公式サイトから店舗情報 788 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>131.6063057,33.2354357</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>Ｇ−ｐａｌａ日田</name>
-      <description><![CDATA[
-<b>登録住所：</b>大分県日田市友田997-1<br />
-<b>マーカーの住所：</b>大分県日田市友田９９７−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A7%E2%88%92%EF%BD%90%EF%BD%81%EF%BD%8C%EF%BD%81%E6%97%A5%E7%94%B0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.9115294,33.3254063</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
