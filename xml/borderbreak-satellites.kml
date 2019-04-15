@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-14)</name>
+  <name>ボーダーブレイク 設置店(2019-04-15)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 780 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(93)</name>
+<name>北海道・東北(92)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -543,7 +543,7 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(9)</name>
+  <name>岩手県(8)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -638,18 +638,6 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>テクノワールド</name>
-      <description><![CDATA[
-<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
-<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
@@ -1193,7 +1181,7 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(291)</name>
+<name>関東(288)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1932,7 +1920,7 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(55)</name>
+  <name>埼玉県(54)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2159,18 +2147,6 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5998353,35.9813109</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>モンテカルロ</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県深谷市西島３−１−２<br />
-<b>マーカーの住所：</b>埼玉県深谷市西島町３丁目１−２<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.2805057,36.1919914</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -2597,7 +2573,7 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>千葉県(50)</name>
+  <name>千葉県(48)</name>
     <Placemark>
       <name>タイトーステーション 柏店</name>
       <description><![CDATA[
@@ -2947,18 +2923,6 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>プラサカプコン富津店</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県富津市青木1-5-1イオンモール富津内ゲームコーナー<br />
-<b>マーカーの住所：</b>千葉県富津市青木１丁目５−１<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%97%E3%83%A9%E3%82%B5%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3%E5%AF%8C%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8454571,35.3304664</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ＡＭ　ＰＩＡ　津田沼</name>
       <description><![CDATA[
 <b>登録住所：</b>千葉県習志野市津田沼１−２−１　十三ビル地下１階<br />
@@ -3088,18 +3052,6 @@ BORDERBREAK公式サイトから店舗情報 784 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>140.1265534,35.6620233</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>クラブセガ稲毛オーツーパーク</name>
-      <description><![CDATA[
-<b>登録住所：</b>千葉県千葉市稲毛区園生町380-1<br />
-<b>マーカーの住所：</b>千葉県千葉市稲毛区園生町３８０−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AF%E3%83%A9%E3%83%96%E3%82%BB%E3%82%AC%E7%A8%B2%E6%AF%9B%E3%82%AA%E3%83%BC%E3%83%84%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.1200483,35.6511245</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
