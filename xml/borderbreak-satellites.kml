@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-04-24)</name>
+  <name>ボーダーブレイク 設置店(2019-04-29)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 778 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -1247,12 +1247,12 @@ BORDERBREAK公式サイトから店舗情報 778 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ジャムジャム神栖店</name>
+      <name>アミューズメントジャムジャム神栖店</name>
       <description><![CDATA[
 <b>登録住所：</b>茨城県神栖市神栖1-8-1<br />
 <b>マーカーの住所：</b>茨城県神栖市神栖１丁目８−１<br />
 <b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%A3%E3%83%A0%E3%82%B8%E3%83%A3%E3%83%A0%E7%A5%9E%E6%A0%96%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B8%E3%83%A3%E3%83%A0%E3%82%B8%E3%83%A3%E3%83%A0%E7%A5%9E%E6%A0%96%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>140.6444094,35.8979951</coordinates>
@@ -1576,12 +1576,12 @@ BORDERBREAK公式サイトから店舗情報 778 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>オオタワラスポーツランド</name>
+      <name>大田原スポーツランド</name>
       <description><![CDATA[
 <b>登録住所：</b>栃木県那須塩原市一区町１０４−６０<br />
 <b>マーカーの住所：</b>栃木県那須塩原市一区町１０４−６０<br />
 <b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AA%E3%82%AA%E3%82%BF%E3%83%AF%E3%83%A9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%A9%E3%83%B3%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+<a href="http://www.google.co.jp/search?q=%E5%A4%A7%E7%94%B0%E5%8E%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%A9%E3%83%B3%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
 ]]></description>
       <Point>
         <coordinates>139.993356,36.8519301</coordinates>
