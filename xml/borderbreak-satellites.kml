@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-05-08)</name>
+  <name>ボーダーブレイク 設置店(2019-05-09)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 777 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -1920,7 +1920,7 @@ BORDERBREAK公式サイトから店舗情報 777 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(54)</name>
+  <name>埼玉県(55)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -2147,6 +2147,18 @@ BORDERBREAK公式サイトから店舗情報 777 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.5998353,35.9813109</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>モンテカルロ</name>
+      <description><![CDATA[
+<b>登録住所：</b>埼玉県深谷市西島３−１−２<br />
+<b>マーカーの住所：</b>埼玉県深谷市西島町３丁目１−２<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>139.2805057,36.1919914</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3154,7 +3166,7 @@ BORDERBREAK公式サイトから店舗情報 777 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(73)</name>
+  <name>東京都(72)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3801,18 +3813,6 @@ BORDERBREAK公式サイトから店舗情報 777 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.3826031,35.7355692</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>キャロム練馬店</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都練馬区北町１−１１−１２<br />
-<b>マーカーの住所：</b>東京都練馬区北町１丁目１１−１２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A0%E7%B7%B4%E9%A6%AC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.6660805,35.7637982</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
