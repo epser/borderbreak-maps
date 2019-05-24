@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-05-21)</name>
+  <name>ボーダーブレイク 設置店(2019-05-24)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -4629,7 +4629,7 @@ BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(59)</name>
+<name>中部(60)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5162,7 +5162,7 @@ BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>長野県(17)</name>
+  <name>長野県(18)</name>
     <Placemark>
       <name>アピナ長野村山店</name>
       <description><![CDATA[
@@ -5367,12 +5367,24 @@ BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報�
         <coordinates>137.8367899,35.5104981</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>キラキラＡｓｏｂｏｘ佐久店</name>
+      <description><![CDATA[
+<b>登録住所：</b>長野県佐久市岩村田６−２佐久ステーションパーク内<br />
+<b>マーカーの住所：</b>長野県佐久市岩村田６<br />
+<b>マーカー精度：</b>高(正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%EF%BC%A1%EF%BD%93%EF%BD%8F%EF%BD%82%EF%BD%8F%EF%BD%98%E4%BD%90%E4%B9%85%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>138.4868777,36.2896413</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
 </Folder>
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(112)</name>
+<name>東海(111)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5854,7 +5866,7 @@ BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>愛知県(58)</name>
+  <name>愛知県(57)</name>
     <Placemark>
       <name>セガ春日井</name>
       <description><![CDATA[
@@ -6309,18 +6321,6 @@ BORDERBREAK公式サイトから店舗情報 774 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>137.1600412,34.9737402</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ユーワールド豊明</name>
-      <description><![CDATA[
-<b>登録住所：</b>愛知県豊明市前後町螺貝１３８４番地１<br />
-<b>マーカーの住所：</b>愛知県豊明市前後町螺貝１３８４−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E8%B1%8A%E6%98%8E%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.9889937,35.0587197</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
