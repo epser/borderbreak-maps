@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-06-09)</name>
+  <name>ボーダーブレイク 設置店(2019-06-10)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -41,20 +41,8 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>北海道(34)</name>
+  <name>北海道(33)</name>
     <Placemark>
-      <name>ディノスパーク札幌中央</name>
-      <description><![CDATA[
-<b>登録住所：</b>北海道札幌市中央区南3条西1丁目8番地スガイビル1,2地下1階<br />
-<b>マーカーの住所：</b>北海道札幌市中央区南３条西１丁目８番地<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%87%E3%82%A3%E3%83%8E%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%9C%AD%E5%B9%8C%E4%B8%AD%E5%A4%AE%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>141.3567697,43.0567933</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>キャッツアイ新札幌店</name>
       <description><![CDATA[
 <b>登録住所：</b>北海道札幌市厚別区厚別東五条1-1-10<br />
@@ -543,7 +531,7 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岩手県(7)</name>
+  <name>岩手県(8)</name>
     <Placemark>
       <name>ＢＩＮＧＯ一関</name>
       <description><![CDATA[
@@ -626,6 +614,18 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>141.14785,39.6576967</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>テクノワールド</name>
+      <description><![CDATA[
+<b>登録住所：</b>岩手県奥州市江刺区愛宕字梁川127-1<br />
+<b>マーカーの住所：</b>岩手県奥州市江刺区愛宕梁川１２７−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>141.1621682,39.1792419</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
