@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-06-15)</name>
+  <name>ボーダーブレイク 設置店(2019-06-16)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 766 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1157,7 +1157,7 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(284)</name>
+<name>関東(283)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3130,7 +3130,7 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(71)</name>
+  <name>東京都(70)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3912,18 +3912,6 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>アミューズメントパークアトム</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都葛飾区東金町１−４４−１金町TVビル1-２階<br />
-<b>マーカーの住所：</b>東京都葛飾区東金町１丁目４４−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%88%E3%83%A0%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8716664,35.7702716</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>タイトーステーション 池袋西口店</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都豊島区西池袋１−１５−９第一西池ビル<br />
@@ -4605,7 +4593,7 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(60)</name>
+<name>中部(59)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5138,7 +5126,7 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>長野県(18)</name>
+  <name>長野県(17)</name>
     <Placemark>
       <name>アピナ長野村山店</name>
       <description><![CDATA[
@@ -5329,18 +5317,6 @@ BORDERBREAK公式サイトから店舗情報 768 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.2233204,36.4160793</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>飯田オークラボウル</name>
-      <description><![CDATA[
-<b>登録住所：</b>長野県飯田市東中央通り3297-1<br />
-<b>マーカーの住所：</b>長野県飯田市東中央通３２９７−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E9%A3%AF%E7%94%B0%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%9C%E3%82%A6%E3%83%AB%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.8367899,35.5104981</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
