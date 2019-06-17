@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-06-16)</name>
+  <name>ボーダーブレイク 設置店(2019-06-17)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 766 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 765 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6681,7 +6681,7 @@ BORDERBREAK公式サイトから店舗情報 766 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(83)</name>
+<name>近畿(82)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6887,7 +6887,7 @@ BORDERBREAK公式サイトから店舗情報 766 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大阪府(38)</name>
+  <name>大阪府(37)</name>
     <Placemark>
       <name>ハイテクランドセガ西中島</name>
       <description><![CDATA[
@@ -6970,18 +6970,6 @@ BORDERBREAK公式サイトから店舗情報 766 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.511716,34.6465412</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ラウンドワン東大阪店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府東大阪市若江南町１−２−１２<br />
-<b>マーカーの住所：</b>大阪府東大阪市若江南町１丁目２−１２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.6063264,34.6530441</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
