@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-06-27)</name>
+  <name>ボーダーブレイク 設置店(2019-06-29)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 762 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 761 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -37,7 +37,7 @@ BORDERBREAK公式サイトから店舗情報 762 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>北海道・東北(90)</name>
+<name>北海道・東北(89)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -858,7 +858,7 @@ BORDERBREAK公式サイトから店舗情報 762 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>山形県(7)</name>
+  <name>山形県(6)</name>
     <Placemark>
       <name>スーパーノバ天童</name>
       <description><![CDATA[
@@ -929,18 +929,6 @@ BORDERBREAK公式サイトから店舗情報 762 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8443865,38.758127</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>パルケ・デ・アミーゴ！山形店</name>
-      <description><![CDATA[
-<b>登録住所：</b>山形県山形市嶋北１−３−１<br />
-<b>マーカーの住所：</b>山形県山形市嶋北１丁目１６−３<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%91%E3%83%AB%E3%82%B1%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%9F%E3%83%BC%E3%82%B4%EF%BC%81%E5%B1%B1%E5%BD%A2%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>140.323889,38.287205</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
