@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-06-29)</name>
+  <name>ボーダーブレイク 設置店(2019-06-30)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 761 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 760 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1145,7 +1145,7 @@ BORDERBREAK公式サイトから店舗情報 761 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(281)</name>
+<name>関東(280)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3106,7 +3106,7 @@ BORDERBREAK公式サイトから店舗情報 761 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(69)</name>
+  <name>東京都(68)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -3501,18 +3501,6 @@ BORDERBREAK公式サイトから店舗情報 761 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8582912,35.7160721</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＰＡＬＯ聖蹟桜ヶ丘</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都多摩市関戸４−７２聖蹟桜ヶ丘オーパ店６Ｆ<br />
-<b>マーカーの住所：</b>東京都多摩市関戸４丁目７２<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B0%EF%BC%A1%EF%BC%AC%EF%BC%AF%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.446952,35.649656</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
