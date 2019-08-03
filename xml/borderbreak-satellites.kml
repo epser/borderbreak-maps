@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-08-02)</name>
+  <name>ボーダーブレイク 設置店(2019-08-03)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5613,7 +5613,7 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(64)</name>
+<name>近畿(61)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5694,7 +5694,7 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>京都府(7)</name>
+  <name>京都府(6)</name>
     <Placemark>
       <name>シェルネット西院</name>
       <description><![CDATA[
@@ -5756,18 +5756,6 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>あそＶＩＶＡゲームセンター</name>
-      <description><![CDATA[
-<b>登録住所：</b>京都府福知山市字堀小字下高田２１４６−１<br />
-<b>マーカーの住所：</b>京都府福知山市堀２１４６<br />
-<b>マーカー精度：</b>高(正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%81%82%E3%81%9D%EF%BC%B6%EF%BC%A9%EF%BC%B6%EF%BC%A1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.1347734,35.2897041</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アミパラ京都南店</name>
       <description><![CDATA[
 <b>登録住所：</b>京都府向日市森本町佃１５−７うきわくシティ２F<br />
@@ -5783,7 +5771,7 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大阪府(29)</name>
+  <name>大阪府(27)</name>
     <Placemark>
       <name>ハイテクランドセガ西中島</name>
       <description><![CDATA[
@@ -5929,18 +5917,6 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ラウンドワン豊中店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府豊中市名神口１−１−１<br />
-<b>マーカーの住所：</b>大阪府豊中市名神口１丁目１−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E8%B1%8A%E4%B8%AD%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.4654647,34.7574379</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>コスミックプラザABC</name>
       <description><![CDATA[
 <b>登録住所：</b>大阪府寝屋川市早子町18-14<br />
@@ -6022,18 +5998,6 @@ BORDERBREAK公式サイトから店舗情報 634 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.5062606,34.7728867999999</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ラウンドワン枚方店</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府枚方市高野道１−２０−２０<br />
-<b>マーカーの住所：</b>大阪府枚方市高野道１丁目２０−２０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E6%9E%9A%E6%96%B9%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.6986977,34.8432521</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
