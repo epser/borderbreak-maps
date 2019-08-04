@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-08-03)</name>
+  <name>ボーダーブレイク 設置店(2019-08-04)</name>
   <description><![CDATA[
 BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
@@ -6380,7 +6380,7 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(44)</name>
+<name>中国(43)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6591,7 +6591,7 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>広島県(16)</name>
+  <name>広島県(15)</name>
     <Placemark>
       <name>セガワールドＭＥＧＡ</name>
       <description><![CDATA[
@@ -6638,18 +6638,6 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>132.7152956,34.4074625</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>アミパラ広島店</name>
-      <description><![CDATA[
-<b>登録住所：</b>広島県広島市西区西観音町3-17<br />
-<b>マーカーの住所：</b>広島県広島市西区西観音町３−１７<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%A2%E3%83%9F%E3%83%91%E3%83%A9%E5%BA%83%E5%B3%B6%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>132.4363846,34.3934716</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -7167,11 +7155,11 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>九州・沖縄(56)</name>
+<name>九州・沖縄(57)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(19)</name>
+  <name>福岡県(20)</name>
     <Placemark>
       <name>ハイパーメッセ</name>
       <description><![CDATA[
@@ -7338,6 +7326,18 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.5409457,33.3217479</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>ユーズボウル久留米</name>
+      <description><![CDATA[
+<b>登録住所：</b>福岡県久留米市東櫛原町字深町１１１０<br />
+<b>マーカーの住所：</b>福岡県久留米市東櫛原町５０２−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%9C%E3%82%A6%E3%83%AB%E4%B9%85%E7%95%99%E7%B1%B3%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>130.5188148,33.3272018</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
