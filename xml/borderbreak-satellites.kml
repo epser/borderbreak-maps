@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-08-10)</name>
+  <name>ボーダーブレイク 設置店(2019-08-11)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 627 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -1013,7 +1013,7 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(225)</name>
+<name>関東(222)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -2602,7 +2602,7 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>東京都(57)</name>
+  <name>東京都(55)</name>
     <Placemark>
       <name>セガ池袋ＧｉＧＯ</name>
       <description><![CDATA[
@@ -2892,18 +2892,6 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>ＡＭ　ＰＩＡ　大森</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都大田区山王２−２−１５<br />
-<b>マーカーの住所：</b>東京都大田区山王２丁目２−１５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%A1%EF%BC%AD%E3%80%80%EF%BC%B0%EF%BC%A9%EF%BC%A1%E3%80%80%E5%A4%A7%E6%A3%AE%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.728029,35.5890284</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ゲームサファリ池袋</name>
       <description><![CDATA[
 <b>登録住所：</b>東京都豊島区東池袋1-42-3 2F<br />
@@ -2949,18 +2937,6 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.8258366,35.6989755</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>○×△□（ラくトス）</name>
-      <description><![CDATA[
-<b>登録住所：</b>東京都葛飾区新小岩１−４４−６<br />
-<b>マーカーの住所：</b>東京都葛飾区新小岩１丁目４４−６<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E2%97%8B%C3%97%E2%96%B3%E2%96%A1%EF%BC%88%E3%83%A9%E3%81%8F%E3%83%88%E3%82%B9%EF%BC%89%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.8582912,35.7160721</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3291,7 +3267,7 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(38)</name>
+  <name>神奈川県(37)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -3398,18 +3374,6 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.6705338,35.2780442</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ベネクス大和店</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県大和市下鶴間2752-2<br />
-<b>マーカーの住所：</b>神奈川県大和市下鶴間２７５２−２<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%99%E3%83%8D%E3%82%AF%E3%82%B9%E5%A4%A7%E5%92%8C%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.4641911,35.4896122</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3753,11 +3717,11 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(54)</name>
+<name>中部(53)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(13)</name>
+  <name>新潟県(12)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -3780,18 +3744,6 @@ BORDERBREAK公式サイトから店舗情報 631 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.748647,37.138322</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>リバプール</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県新潟市西区寺尾朝日通２７−２５<br />
-<b>マーカーの住所：</b>新潟県新潟市西区寺尾朝日通２７−２５<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%AA%E3%83%90%E3%83%97%E3%83%BC%E3%83%AB%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.9832272,37.8827251</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
