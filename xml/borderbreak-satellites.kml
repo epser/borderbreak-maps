@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-08-28)</name>
+  <name>ボーダーブレイク 設置店(2019-08-30)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 620 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 619 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -977,7 +977,7 @@ BORDERBREAK公式サイトから店舗情報 620 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(222)</name>
+<name>関東(221)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -1644,7 +1644,7 @@ BORDERBREAK公式サイトから店舗情報 620 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>埼玉県(39)</name>
+  <name>埼玉県(38)</name>
     <Placemark>
       <name>セガ川口</name>
       <description><![CDATA[
@@ -1655,18 +1655,6 @@ BORDERBREAK公式サイトから店舗情報 620 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>139.74755,35.7947768</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ所沢</name>
-      <description><![CDATA[
-<b>登録住所：</b>埼玉県所沢市日吉町8-1<br />
-<b>マーカーの住所：</b>埼玉県所沢市日吉町８−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%89%80%E6%B2%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.471899,35.788476</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
