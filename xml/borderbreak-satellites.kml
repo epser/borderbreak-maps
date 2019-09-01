@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-08-31)</name>
+  <name>ボーダーブレイク 設置店(2019-09-01)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 618 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 617 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6236,7 +6236,7 @@ BORDERBREAK公式サイトから店舗情報 618 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(43)</name>
+<name>中国(42)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6322,7 +6322,7 @@ BORDERBREAK公式サイトから店舗情報 618 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岡山県(10)</name>
+  <name>岡山県(9)</name>
     <Placemark>
       <name>アミパラテクノランド店</name>
       <description><![CDATA[
@@ -6333,18 +6333,6 @@ BORDERBREAK公式サイトから店舗情報 618 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.9274976,34.6791764</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ユーズランド倉敷店</name>
-      <description><![CDATA[
-<b>登録住所：</b>岡山県倉敷市水江１番地イオンモール倉敷２Ｆ<br />
-<b>マーカーの住所：</b>岡山県倉敷市水江１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%A6%E3%83%BC%E3%82%BA%E3%83%A9%E3%83%B3%E3%83%89%E5%80%89%E6%95%B7%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>133.7454021,34.6032479</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
