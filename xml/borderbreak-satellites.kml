@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-09-03)</name>
+  <name>ボーダーブレイク 設置店(2019-09-04)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 613 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -989,7 +989,7 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>関東(221)</name>
+<name>関東(220)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3231,7 +3231,7 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>神奈川県(37)</name>
+  <name>神奈川県(36)</name>
     <Placemark>
       <name>ネバーランド港北店</name>
       <description><![CDATA[
@@ -3581,18 +3581,6 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 横浜本店</name>
-      <description><![CDATA[
-<b>登録住所：</b>神奈川県横浜市都筑区中川中央1-25-1 NPモール6F<br />
-<b>マーカーの住所：</b>神奈川県横浜市都筑区中川中央１丁目２５−１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E6%A8%AA%E6%B5%9C%E6%9C%AC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.579457,35.5516442</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>イミグランデ本厚木店</name>
       <description><![CDATA[
 <b>登録住所：</b>神奈川県厚木市中町３−２−１<br />
@@ -3681,11 +3669,11 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(53)</name>
+<name>中部(52)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>新潟県(12)</name>
+  <name>新潟県(11)</name>
     <Placemark>
       <name>カプコサーカス新潟東店</name>
       <description><![CDATA[
@@ -3804,18 +3792,6 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.8131975,37.4579741</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ＰＥＴＩＴ　ＭＡＪＯＲ</name>
-      <description><![CDATA[
-<b>登録住所：</b>新潟県新潟市西区山田字中道上の中３３１０<br />
-<b>マーカーの住所：</b>新潟県新潟市西区山田３３１０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%EF%BC%B0%EF%BC%A5%EF%BC%B4%EF%BC%A9%EF%BC%B4%E3%80%80%EF%BC%AD%EF%BC%A1%EF%BC%AA%EF%BC%AF%EF%BC%B2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>139.01675,37.8679954</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -4352,7 +4328,7 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(95)</name>
+<name>東海(94)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -4517,7 +4493,7 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(20)</name>
+  <name>静岡県(19)</name>
     <Placemark>
       <name>THE 3RD PLANET 富士店</name>
       <description><![CDATA[
@@ -4686,18 +4662,6 @@ BORDERBREAK公式サイトから店舗情報 616 件を取得し、位置情報�
         <coordinates>138.9529876,35.2951701</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET BiVi沼津店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県沼津市大手町1-1-5<br />
-<b>マーカーの住所：</b>静岡県沼津市大手町１丁目１<br />
-<b>マーカー精度：</b>中(大まかな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20BiVi%E6%B2%BC%E6%B4%A5%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.8609757,35.103453</coordinates>
-      </Point>
-    <styleUrl>#yellow</styleUrl>
     </Placemark>    <Placemark>
       <name>ジョイランドアミューズ諏訪店</name>
       <description><![CDATA[
