@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-09-04)</name>
+  <name>ボーダーブレイク 設置店(2019-09-05)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 613 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -5481,7 +5481,7 @@ BORDERBREAK公式サイトから店舗情報 613 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>近畿(58)</name>
+<name>近畿(57)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -5639,7 +5639,7 @@ BORDERBREAK公式サイトから店舗情報 613 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>大阪府(26)</name>
+  <name>大阪府(25)</name>
     <Placemark>
       <name>ハイテクランドセガ西中島</name>
       <description><![CDATA[
@@ -5806,18 +5806,6 @@ BORDERBREAK公式サイトから店舗情報 613 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>135.5018493,34.6662491</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲームゼロ</name>
-      <description><![CDATA[
-<b>登録住所：</b>大阪府大阪市北区梅田１−２−２大阪駅前第２ビルＢ１<br />
-<b>マーカーの住所：</b>大阪府大阪市北区梅田３丁目２−１３５<br />
-<b>マーカー精度：</b>高(施設単位/point_of_interest)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BC%E3%83%AD%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>135.4938497,34.7019443</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
