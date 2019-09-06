@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-09-05)</name>
+  <name>ボーダーブレイク 設置店(2019-09-06)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 611 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -6200,7 +6200,7 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中国(42)</name>
+<name>中国(41)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -6286,7 +6286,7 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>岡山県(9)</name>
+  <name>岡山県(8)</name>
     <Placemark>
       <name>アミパラテクノランド店</name>
       <description><![CDATA[
@@ -6333,18 +6333,6 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>133.7713064,34.5835413</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>スターダスト</name>
-      <description><![CDATA[
-<b>登録住所：</b>岡山県岡山市北区駅前町１−７<br />
-<b>マーカーの住所：</b>岡山県岡山市北区駅前町１丁目７−２<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>133.9208375,34.666322</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -6967,7 +6955,7 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福岡県(19)</name>
+  <name>福岡県(18)</name>
     <Placemark>
       <name>ハイパーメッセ</name>
       <description><![CDATA[
@@ -7074,18 +7062,6 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>130.7028968,33.6436411</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ゲームセンターみやま</name>
-      <description><![CDATA[
-<b>登録住所：</b>福岡県田川郡香春町大字香春１００３<br />
-<b>マーカーの住所：</b>福岡県田川郡香春町香春１００３<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%BF%E3%82%84%E3%81%BE%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>130.8335752,33.6630861</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -7200,7 +7176,7 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>佐賀県(2)</name>
+  <name>佐賀県(3)</name>
     <Placemark>
       <name>遊道楽嘉瀬店</name>
       <description><![CDATA[
@@ -7223,6 +7199,18 @@ BORDERBREAK公式サイトから店舗情報 612 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>129.8723947,33.2782032</coordinates>
+      </Point>
+    <styleUrl>#blue</styleUrl>
+    </Placemark>    <Placemark>
+      <name>セガ武雄</name>
+      <description><![CDATA[
+<b>登録住所：</b>佐賀県武雄市武雄町富岡12517-1<br />
+<b>マーカーの住所：</b>佐賀県武雄市武雄町大字富岡１２５１７−１<br />
+<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
+<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E6%AD%A6%E9%9B%84%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
+]]></description>
+      <Point>
+        <coordinates>130.0346461,33.1993539</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>  </Folder>
