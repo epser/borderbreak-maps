@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>ボーダーブレイク 設置店(2019-09-08)</name>
+  <name>ボーダーブレイク 設置店(2019-09-09)</name>
   <description><![CDATA[
-BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報を付加したデータです。<br />
+BORDERBREAK公式サイトから店舗情報 581 件を取得し、位置情報を付加したデータです。<br />
 マーカーの色は座標の精度を表します。黄色い店舗は区画(番地)の中心までずれている、赤い店舗は市区町村の中心までずれているマーカーです。<br />
 - <a href="https://sites.google.com/site/bbgamecentermap/">ウェブサイト</a></br />
 - <a href="http://twitter.com/bb_location_bot">更新情報</a><br />
@@ -3453,7 +3453,7 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>中部(52)</name>
+<name>中部(48)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -3594,20 +3594,8 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>富山県(11)</name>
+  <name>富山県(10)</name>
     <Placemark>
-      <name>トヤマレジャーランド呉羽店</name>
-      <description><![CDATA[
-<b>登録住所：</b>富山県富山市高木字貝塚2054<br />
-<b>マーカーの住所：</b>富山県富山市高木２０５４<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%83%88%E3%83%A4%E3%83%9E%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%91%89%E7%BE%BD%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>137.1580141,36.7154398</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>サービスエリアIN高岡</name>
       <description><![CDATA[
 <b>登録住所：</b>富山県高岡市下石瀬857-1<br />
@@ -3796,20 +3784,8 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>福井県(7)</name>
+  <name>福井県(5)</name>
     <Placemark>
-      <name>ジョイランド大和田店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福井県福井市大和田町2-1002<br />
-<b>マーカーの住所：</b>福井県福井市大和田町５６−１０<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E5%92%8C%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.2525498,36.0990228</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>セガ福井</name>
       <description><![CDATA[
 <b>登録住所：</b>福井県福井市丸山1-410<br />
@@ -3831,18 +3807,6 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.1534092,35.9051868</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>ジョイランド鯖江店</name>
-      <description><![CDATA[
-<b>登録住所：</b>福井県鯖江市宮前1-614-1<br />
-<b>マーカーの住所：</b>福井県鯖江市宮前１丁目６−１４−１<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%AF%96%E6%B1%9F%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.1890439,35.9357342</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -3926,7 +3890,7 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>長野県(15)</name>
+  <name>長野県(14)</name>
     <Placemark>
       <name>アピナ長野村山店</name>
       <description><![CDATA[
@@ -4048,18 +4012,6 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 長野大通り店</name>
-      <description><![CDATA[
-<b>登録住所：</b>長野県長野市大字鶴賀権堂町１５０６−３長電権堂第２ビル１Ｆ<br />
-<b>マーカーの住所：</b>長野県長野市鶴賀権堂町１５０６−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E9%95%B7%E9%87%8E%E5%A4%A7%E9%80%9A%E3%82%8A%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.1927614,36.6541353</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アピナ長野川中島店</name>
       <description><![CDATA[
 <b>登録住所：</b>長野県長野市川中島町御厨９６７−１<br />
@@ -4112,7 +4064,7 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
 <Folder>
 <open>0</open>
 <visibility>1</visibility>
-<name>東海(94)</name>
+<name>東海(89)</name>
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
@@ -4277,20 +4229,8 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>静岡県(19)</name>
+  <name>静岡県(15)</name>
     <Placemark>
-      <name>THE 3RD PLANET 富士店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県富士市永田町2-99<br />
-<b>マーカーの住所：</b>静岡県富士市永田町２丁目９９<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%AF%8C%E5%A3%AB%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.6692789,35.1624456</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>ポート２４浜松店</name>
       <description><![CDATA[
 <b>登録住所：</b>静岡県浜松市西区坪井町4183-1<br />
@@ -4339,18 +4279,6 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 島田店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県島田市中溝町2531<br />
-<b>マーカーの住所：</b>静岡県島田市中溝町２５３１<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E5%B3%B6%E7%94%B0%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.1658978,34.8381356</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
       <name>アップル新北街道店</name>
       <description><![CDATA[
 <b>登録住所：</b>静岡県静岡市葵区沓谷5-13-4<br />
@@ -4384,30 +4312,6 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>138.655158,35.184954</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET 静岡インター店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県静岡市駿河区中野新田383-3<br />
-<b>マーカーの住所：</b>静岡県静岡市駿河区中野新田３８３−３<br />
-<b>マーカー精度：</b>高(ほぼ正確な住所)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E9%9D%99%E5%B2%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.3898875,34.9494901</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>THE 3RD PLANET フレスポ静岡店</name>
-      <description><![CDATA[
-<b>登録住所：</b>静岡県静岡市清水区鳥坂860<br />
-<b>マーカーの住所：</b>静岡県静岡市清水区鳥坂８６０<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=THE%203RD%20PLANET%20%E3%83%95%E3%83%AC%E3%82%B9%E3%83%9D%E9%9D%99%E5%B2%A1%E5%BA%97%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>138.4344266,35.0137005</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
@@ -5103,7 +5007,7 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
   <Folder>
   <open>0</open>
 <visibility>1</visibility>
-  <name>三重県(13)</name>
+  <name>三重県(12)</name>
     <Placemark>
       <name>ゲームチャオ松阪店</name>
       <description><![CDATA[
@@ -5222,18 +5126,6 @@ BORDERBREAK公式サイトから店舗情報 590 件を取得し、位置情報�
 ]]></description>
       <Point>
         <coordinates>136.606754,34.9392506</coordinates>
-      </Point>
-    <styleUrl>#blue</styleUrl>
-    </Placemark>    <Placemark>
-      <name>セガ伊勢</name>
-      <description><![CDATA[
-<b>登録住所：</b>三重県伊勢市中須町666<br />
-<b>マーカーの住所：</b>三重県伊勢市中須町６６６<br />
-<b>マーカー精度：</b>高(細かな番地)<br />
-<a href="http://www.google.co.jp/search?q=%E3%82%BB%E3%82%AC%E4%BC%8A%E5%8B%A2%20inurl:www12.atwiki.jp/borderbreak/">@ウィキを検索</a>
-]]></description>
-      <Point>
-        <coordinates>136.6780636,34.4921013</coordinates>
       </Point>
     <styleUrl>#blue</styleUrl>
     </Placemark>    <Placemark>
